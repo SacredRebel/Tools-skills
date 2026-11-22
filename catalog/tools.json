@@ -4648,5 +4648,58 @@
     "added_at": "2026-11-21",
     "last_reviewed": "2026-11-21",
     "featured": false
+  },
+  {
+    "id": "goabstract-marketing-for-engineers",
+    "name": "Marketing for Engineers",
+    "url": "https://github.com/goabstract/Marketing-for-Engineers",
+    "category": "Marketing & Launch",
+    "kind": "collection",
+    "description": "Archived curated collection of marketing articles, guides and tools for developers, indie makers and technical product founders.",
+    "tags": [
+      "marketing",
+      "startup",
+      "engineering",
+      "indie-hackers",
+      "product-growth",
+      "reading-list",
+      "archived"
+    ],
+    "use_when": "Discover practical marketing references for technical products or indie startups; check that linked resources are still current.",
+    "source": "github",
+    "status": "archived",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false,
+    "language": "unknown",
+    "license": "NOASSERTION"
+  },
+  {
+    "id": "irinabuht12-oss-marketing-skills",
+    "name": "Marketing Skills for Claude",
+    "url": "https://github.com/irinabuht12-oss/marketing-skills",
+    "category": "Marketing & Launch",
+    "kind": "agent-skill",
+    "description": "Collection of Claude marketing skills for Google Ads, Meta Ads, SEO and AI-search visibility, plus optional Ryze advertising MCP integrations.",
+    "tags": [
+      "marketing",
+      "agent-skills",
+      "claude-code",
+      "claude",
+      "google-ads",
+      "meta-ads",
+      "seo",
+      "geo",
+      "mcp",
+      "paid-media"
+    ],
+    "use_when": "Equip Claude or a compatible agent with workflows for ad campaigns, marketing audits, SEO and AI visibility; verify account, advertising API and MCP permissions before connecting.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false,
+    "language": "unknown",
+    "license": "unknown"
   }
 ]
