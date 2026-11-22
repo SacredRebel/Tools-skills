@@ -1,0 +1,902 @@
+[
+  {
+    "id": "smoothui",
+    "name": "SmoothUI",
+    "url": "https://smoothui.dev/",
+    "category": "Design & UI",
+    "kind": "component-library",
+    "description": "Animated React components built with Tailwind, Motion and GSAP.",
+    "tags": [
+      "react",
+      "tailwind",
+      "motion",
+      "components"
+    ],
+    "use_when": "Use when: Animated React components built with Tailwind, Motion and GSAP.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": true
+  },
+  {
+    "id": "magic-ui-pro",
+    "name": "Magic UI Pro",
+    "url": "https://pro.magicui.design/",
+    "category": "Design & UI",
+    "kind": "component-library",
+    "description": "Premium animated React/Tailwind sections, templates and components.",
+    "tags": [
+      "react",
+      "tailwind",
+      "templates",
+      "premium"
+    ],
+    "use_when": "Use when: Premium animated React/Tailwind sections, templates and components.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "unlumen-ui",
+    "name": "Unlumen UI",
+    "url": "https://ui.unlumen.com/",
+    "category": "Design & UI",
+    "kind": "component-library",
+    "description": "Animated shadcn-compatible React components with canvas and WebGL effects.",
+    "tags": [
+      "react",
+      "shadcn",
+      "webgl"
+    ],
+    "use_when": "Use when: Animated shadcn-compatible React components with canvas and WebGL effects.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "shorty",
+    "name": "Shorty",
+    "url": "https://shortyedit.com/",
+    "category": "Video & Motion",
+    "kind": "app",
+    "description": "AI short-form video editor using raw footage, references and creative briefs.",
+    "tags": [
+      "shorts",
+      "editing",
+      "ai-video",
+      "mcp"
+    ],
+    "use_when": "Use when: AI short-form video editor using raw footage, references and creative briefs.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "getlayers-ai",
+    "name": "GetLayers AI",
+    "url": "https://www.getlayers.ai/",
+    "category": "Design & UI",
+    "kind": "platform",
+    "description": "Design library and AI studio for components, backgrounds and agent-accessible assets.",
+    "tags": [
+      "templates",
+      "mcp",
+      "creative"
+    ],
+    "use_when": "Use when: Design library and AI studio for components, backgrounds and agent-accessible assets.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": true
+  },
+  {
+    "id": "getlayers-3d-scenes",
+    "name": "GetLayers 3D Scenes",
+    "url": "https://www.getlayers.ai/3d-scenes",
+    "category": "3D & Immersive",
+    "kind": "gallery",
+    "description": "GetLayers collection of cinematic 3D scene designs and prompts.",
+    "tags": [
+      "3d",
+      "webgl",
+      "scenes"
+    ],
+    "use_when": "Use when: GetLayers collection of cinematic 3D scene designs and prompts.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "where-to-submit-your-startup",
+    "name": "Where to Submit Your Startup",
+    "url": "https://github.com/mmmmingos/where-to-submit-your-startup",
+    "category": "Marketing & Launch",
+    "kind": "repository",
+    "description": "Startup directories, submission opportunities and launch-planning references.",
+    "tags": [
+      "startup",
+      "launch",
+      "directories"
+    ],
+    "use_when": "Use when: Startup directories, submission opportunities and launch-planning references.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "places-to-post-your-startup",
+    "name": "Places To Post Your Startup",
+    "url": "https://github.com/mmccaff/PlacesToPostYourStartup",
+    "category": "Marketing & Launch",
+    "kind": "repository",
+    "description": "Community-curated list of places to promote a startup and reach early adopters.",
+    "tags": [
+      "startup",
+      "distribution",
+      "communities"
+    ],
+    "use_when": "Use when: Community-curated list of places to promote a startup and reach early adopters.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "seostats",
+    "name": "SEOstats",
+    "url": "https://github.com/eyecatchup/SEOstats",
+    "category": "SEO & Analytics",
+    "kind": "library",
+    "description": "PHP library for collecting SEO-related metrics; original repository is archived.",
+    "tags": [
+      "php",
+      "seo",
+      "metrics",
+      "legacy"
+    ],
+    "use_when": "Use when: PHP library for collecting SEO-related metrics; original repository is archived.",
+    "source": "github",
+    "status": "archived",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "seonaut",
+    "name": "Seonaut",
+    "url": "https://github.com/StJudeWasHere/seonaut",
+    "category": "SEO & Analytics",
+    "kind": "app",
+    "description": "Open-source technical SEO auditing and website-crawling tool.",
+    "tags": [
+      "seo",
+      "audit",
+      "crawl"
+    ],
+    "use_when": "Use when: Open-source technical SEO auditing and website-crawling tool.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "open-seo-mcp-skills",
+    "name": "Open SEO MCP Skills",
+    "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "category": "SEO & Analytics",
+    "kind": "agent-skill",
+    "description": "SEO and GEO skills with MCP integration for search and marketing data.",
+    "tags": [
+      "mcp",
+      "seo",
+      "geo",
+      "agents"
+    ],
+    "use_when": "Use when: SEO and GEO skills with MCP integration for search and marketing data.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": true
+  },
+  {
+    "id": "open-seo",
+    "name": "Open SEO",
+    "url": "https://github.com/every-app/open-seo",
+    "category": "SEO & Analytics",
+    "kind": "app",
+    "description": "Open-source SEO research platform positioned as an alternative to commercial suites.",
+    "tags": [
+      "seo",
+      "keywords",
+      "competitors"
+    ],
+    "use_when": "Use when: Open-source SEO research platform positioned as an alternative to commercial suites.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "open-higgsfield",
+    "name": "Open Higgsfield",
+    "url": "https://github.com/wide-trace/open-higgsfield",
+    "category": "AI Image & Video",
+    "kind": "app",
+    "description": "Image-and-video generation studio with unified model controls.",
+    "tags": [
+      "ai-image",
+      "ai-video",
+      "studio"
+    ],
+    "use_when": "Use when: Image-and-video generation studio with unified model controls.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "open-higgsfield-ai",
+    "name": "Open Higgsfield AI",
+    "url": "https://github.com/ClabstreamTeam/Open-Higgsfield-AI",
+    "category": "AI Image & Video",
+    "kind": "app",
+    "description": "Self-hostable AI image-generation studio supporting multiple models.",
+    "tags": [
+      "image-generation",
+      "models",
+      "self-hosted"
+    ],
+    "use_when": "Use when: Self-hostable AI image-generation studio supporting multiple models.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "cap",
+    "name": "Cap",
+    "url": "https://github.com/CapSoftware/Cap",
+    "category": "Video & Motion",
+    "kind": "app",
+    "description": "Open-source screen recorder for shareable demos and walkthroughs.",
+    "tags": [
+      "screen-recorder",
+      "loom",
+      "demos"
+    ],
+    "use_when": "Use when: Open-source screen recorder for shareable demos and walkthroughs.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "uberdesigner-skills",
+    "name": "Uberdesigner Skills",
+    "url": "https://github.com/seanaiux/uberdesigner-skills",
+    "category": "AI Agents & Skills",
+    "kind": "agent-skill",
+    "description": "Agent skills for deployment and coordinated AI-assisted building.",
+    "tags": [
+      "agents",
+      "claude-code",
+      "cloudflare"
+    ],
+    "use_when": "Use when: Agent skills for deployment and coordinated AI-assisted building.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "rea",
+    "name": "REA",
+    "url": "https://github.com/morluto/rea",
+    "category": "Developer Tools",
+    "kind": "agent-tool",
+    "description": "Agent-based reverse engineering of application behavior and software.",
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "code-analysis"
+    ],
+    "use_when": "Use when: Agent-based reverse engineering of application behavior and software.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "asyncapi-generator",
+    "name": "AsyncAPI Generator",
+    "url": "https://github.com/asyncapi/generator",
+    "category": "Developer Tools",
+    "kind": "library",
+    "description": "Generate documentation and code from AsyncAPI specifications.",
+    "tags": [
+      "asyncapi",
+      "api",
+      "codegen"
+    ],
+    "use_when": "Use when: Generate documentation and code from AsyncAPI specifications.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "html5-drag-and-drop-anything",
+    "name": "HTML5 Drag and Drop Anything",
+    "url": "https://github.com/seanhess/html5-drag-drop-anything",
+    "category": "Developer Tools",
+    "kind": "example",
+    "description": "Educational code and slides for HTML5 drag-and-drop.",
+    "tags": [
+      "html5",
+      "drag-drop",
+      "frontend"
+    ],
+    "use_when": "Use when: Educational code and slides for HTML5 drag-and-drop.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "paper2anything",
+    "name": "Paper2Anything",
+    "url": "https://github.com/QuZhan51496/paper2anything",
+    "category": "AI Agents & Skills",
+    "kind": "agent-skill",
+    "description": "Turn academic papers into slides, posters, webpages and social content.",
+    "tags": [
+      "research",
+      "pdf",
+      "slides",
+      "agents"
+    ],
+    "use_when": "Use when: Turn academic papers into slides, posters, webpages and social content.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "openfilm",
+    "name": "OpenFilm",
+    "url": "https://github.com/openfilm/openfilm",
+    "category": "Video & Motion",
+    "kind": "agent-tool",
+    "description": "Open-source AI video agent with editable results.",
+    "tags": [
+      "ai-video",
+      "agents",
+      "editing"
+    ],
+    "use_when": "Use when: Open-source AI video agent with editable results.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": true
+  },
+  {
+    "id": "html-anything",
+    "name": "HTML Anything",
+    "url": "https://github.com/clockless-org/html-anything",
+    "category": "Developer Tools",
+    "kind": "agent-tool",
+    "description": "Turn documents, logs and source files into interactive, shareable HTML.",
+    "tags": [
+      "html",
+      "documents",
+      "conversion"
+    ],
+    "use_when": "Use when: Turn documents, logs and source files into interactive, shareable HTML.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "checkboxland",
+    "name": "Checkboxland",
+    "url": "https://github.com/bryanbraun/checkboxland",
+    "category": "Creative Coding",
+    "kind": "library",
+    "description": "Render visual content using HTML checkboxes.",
+    "tags": [
+      "creative-coding",
+      "html",
+      "experiments"
+    ],
+    "use_when": "Use when: Render visual content using HTML checkboxes.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "soundjs",
+    "name": "SoundJS",
+    "url": "https://github.com/CreateJS/SoundJS",
+    "category": "Audio & Music",
+    "kind": "library",
+    "description": "Cross-browser JavaScript API for loading and playing sound.",
+    "tags": [
+      "javascript",
+      "audio",
+      "web-audio"
+    ],
+    "use_when": "Use when: Cross-browser JavaScript API for loading and playing sound.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "soundcraft",
+    "name": "SoundCraft",
+    "url": "https://github.com/storytold/soundcraft",
+    "category": "Audio & Music",
+    "kind": "app",
+    "description": "Open-source Rust digital audio workstation.",
+    "tags": [
+      "rust",
+      "daw",
+      "audio"
+    ],
+    "use_when": "Use when: Open-source Rust digital audio workstation.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "soundmanager-2",
+    "name": "SoundManager 2",
+    "url": "https://github.com/scottschiller/SoundManager2",
+    "category": "Audio & Music",
+    "kind": "library",
+    "description": "Cross-browser JavaScript sound playback and control.",
+    "tags": [
+      "javascript",
+      "audio",
+      "playback"
+    ],
+    "use_when": "Use when: Cross-browser JavaScript sound playback and control.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "soundrecorder",
+    "name": "SoundRecorder",
+    "url": "https://github.com/dkim0419/SoundRecorder",
+    "category": "Audio & Music",
+    "kind": "app",
+    "description": "Android sound-recording app with Material Design.",
+    "tags": [
+      "android",
+      "recorder",
+      "mobile"
+    ],
+    "use_when": "Use when: Android sound-recording app with Material Design.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "soundswitch",
+    "name": "SoundSwitch",
+    "url": "https://github.com/Belphemur/SoundSwitch",
+    "category": "Audio & Music",
+    "kind": "utility",
+    "description": "Windows utility for changing the default audio output device.",
+    "tags": [
+      "windows",
+      "audio",
+      "devices"
+    ],
+    "use_when": "Use when: Windows utility for changing the default audio output device.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "pixijs-sound",
+    "name": "PixiJS Sound",
+    "url": "https://github.com/pixijs/sound",
+    "category": "Audio & Music",
+    "kind": "library",
+    "description": "WebAudio playback library with filters for browser apps.",
+    "tags": [
+      "pixijs",
+      "audio",
+      "web-audio"
+    ],
+    "use_when": "Use when: WebAudio playback library with filters for browser apps.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "vibe-motion-sound",
+    "name": "Vibe Motion Sound",
+    "url": "https://github.com/vibe-motion/sound",
+    "category": "Audio & Music",
+    "kind": "agent-tool",
+    "description": "Agent-facing sound-effects search across audio libraries.",
+    "tags": [
+      "sfx",
+      "agents",
+      "audio-search"
+    ],
+    "use_when": "Use when: Agent-facing sound-effects search across audio libraries.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "p5-js-sound",
+    "name": "p5.js Sound",
+    "url": "https://github.com/processing/p5.js-sound",
+    "category": "Audio & Music",
+    "kind": "library",
+    "description": "Audio playback, synthesis and analysis for p5.js.",
+    "tags": [
+      "p5js",
+      "synthesis",
+      "audio"
+    ],
+    "use_when": "Use when: Audio playback, synthesis and analysis for p5.js.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "sound-redux",
+    "name": "Sound Redux",
+    "url": "https://github.com/andrewngu/sound-redux",
+    "category": "Audio & Music",
+    "kind": "example",
+    "description": "React/Redux SoundCloud client demonstration.",
+    "tags": [
+      "react",
+      "redux",
+      "soundcloud"
+    ],
+    "use_when": "Use when: React/Redux SoundCloud client demonstration.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "orpheus-tts",
+    "name": "Orpheus TTS",
+    "url": "https://github.com/canopyai/Orpheus-TTS",
+    "category": "Voice & Speech",
+    "kind": "model",
+    "description": "Open speech-synthesis research for natural-sounding TTS.",
+    "tags": [
+      "tts",
+      "voice",
+      "speech"
+    ],
+    "use_when": "Use when: Open speech-synthesis research for natural-sounding TTS.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "soundnode",
+    "name": "Soundnode",
+    "url": "https://github.com/Soundnode/soundnode-app",
+    "category": "Audio & Music",
+    "kind": "app",
+    "description": "Desktop SoundCloud client built with Electron and AngularJS.",
+    "tags": [
+      "desktop",
+      "soundcloud",
+      "electron"
+    ],
+    "use_when": "Use when: Desktop SoundCloud client built with Electron and AngularJS.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "soundthread",
+    "name": "SoundThread",
+    "url": "https://github.com/j-p-higgins/SoundThread",
+    "category": "Audio & Music",
+    "kind": "app",
+    "description": "Node-based GUI for the Composers Desktop Project.",
+    "tags": [
+      "composition",
+      "node-editor",
+      "audio"
+    ],
+    "use_when": "Use when: Node-based GUI for the Composers Desktop Project.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "autoeq",
+    "name": "AutoEq",
+    "url": "https://github.com/jaakkopasanen/AutoEq",
+    "category": "Audio & Music",
+    "kind": "utility",
+    "description": "Automatic headphone equalization from measured frequency responses.",
+    "tags": [
+      "equalizer",
+      "headphones",
+      "frequency"
+    ],
+    "use_when": "Use when: Automatic headphone equalization from measured frequency responses.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "frequencywords",
+    "name": "FrequencyWords",
+    "url": "https://github.com/hermitdave/FrequencyWords",
+    "category": "Research & Data",
+    "kind": "dataset",
+    "description": "Word-frequency lists and generator tools for language analysis.",
+    "tags": [
+      "language",
+      "nlp",
+      "frequency",
+      "dataset"
+    ],
+    "use_when": "Use when: Word-frequency lists and generator tools for language analysis.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "hummingbot",
+    "name": "Hummingbot",
+    "url": "https://github.com/hummingbot/hummingbot",
+    "category": "Finance & Trading",
+    "kind": "platform",
+    "description": "Open-source infrastructure for algorithmic crypto trading bots.",
+    "tags": [
+      "crypto",
+      "trading",
+      "bots"
+    ],
+    "use_when": "Use when: Open-source infrastructure for algorithmic crypto trading bots.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "frequency-anti-cheat",
+    "name": "Frequency Anti-Cheat",
+    "url": "https://github.com/ElevatedDev/Frequency",
+    "category": "Developer Tools",
+    "kind": "repository",
+    "description": "Basic anti-cheat system; unrelated to audio frequency.",
+    "tags": [
+      "anti-cheat",
+      "security",
+      "games"
+    ],
+    "use_when": "Use when: Basic anti-cheat system; unrelated to audio frequency.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "frequency-law",
+    "name": "Frequency Law",
+    "url": "https://github.com/HongyuanLuke/frequencylaw",
+    "category": "Research & Data",
+    "kind": "research",
+    "description": "Research code for statistical frequency laws in text.",
+    "tags": [
+      "nlp",
+      "text",
+      "statistics"
+    ],
+    "use_when": "Use when: Research code for statistical frequency laws in text.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "frequency-connectedness",
+    "name": "Frequency Connectedness",
+    "url": "https://github.com/tomaskrehlik/frequencyConnectedness",
+    "category": "Research & Data",
+    "kind": "research",
+    "description": "Spectral decomposition of financial connectedness measures.",
+    "tags": [
+      "econometrics",
+      "finance",
+      "spectral-analysis"
+    ],
+    "use_when": "Use when: Spectral decomposition of financial connectedness measures.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "focal-frequency-loss",
+    "name": "Focal Frequency Loss",
+    "url": "https://github.com/EndlessSora/focal-frequency-loss",
+    "category": "Machine Learning",
+    "kind": "research",
+    "description": "Frequency-domain loss function for image reconstruction and synthesis.",
+    "tags": [
+      "computer-vision",
+      "training",
+      "loss"
+    ],
+    "use_when": "Use when: Frequency-domain loss function for image reconstruction and synthesis.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "hft",
+    "name": "HFT",
+    "url": "https://github.com/jshellen/HFT",
+    "category": "Finance & Trading",
+    "kind": "research",
+    "description": "Code exploring high-frequency market making.",
+    "tags": [
+      "trading",
+      "hft",
+      "markets"
+    ],
+    "use_when": "Use when: Code exploring high-frequency market making.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "vibration",
+    "name": "Vibration",
+    "url": "https://github.com/BenoitFreslon/Vibration",
+    "category": "Haptics & Hardware",
+    "kind": "library",
+    "description": "Unity plugin for custom Android and iOS mobile vibrations.",
+    "tags": [
+      "unity",
+      "mobile",
+      "haptics"
+    ],
+    "use_when": "Use when: Unity plugin for custom Android and iOS mobile vibrations.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "nice-vibrations",
+    "name": "Nice Vibrations",
+    "url": "https://github.com/Lofelt/NiceVibrations",
+    "category": "Haptics & Hardware",
+    "kind": "sdk",
+    "description": "Haptic tooling and SDK code; repository is archived.",
+    "tags": [
+      "haptics",
+      "unity",
+      "vibration"
+    ],
+    "use_when": "Use when: Haptic tooling and SDK code; repository is archived.",
+    "source": "github",
+    "status": "archived",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "deepviv",
+    "name": "DeepVIV",
+    "url": "https://github.com/maziarraissi/DeepVIV",
+    "category": "Research & Data",
+    "kind": "research",
+    "description": "Deep-learning research on vortex-induced vibrations in fluid mechanics.",
+    "tags": [
+      "physics",
+      "deep-learning",
+      "fluid-dynamics"
+    ],
+    "use_when": "Use when: Deep-learning research on vortex-induced vibrations in fluid mechanics.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "dashboard-tools-reference",
+    "name": "Dashboard Tools Reference",
+    "url": "https://github.com/SacredRebel/dashboard-tools-",
+    "category": "Design & UI",
+    "kind": "repository",
+    "description": "Personal dashboard toolkit, design rulebook and agent workflow catalog.",
+    "tags": [
+      "dashboard",
+      "design-system",
+      "agents"
+    ],
+    "use_when": "Use when: Personal dashboard toolkit, design rulebook and agent workflow catalog.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  }
+]
