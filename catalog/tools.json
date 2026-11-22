@@ -6645,5 +6645,92 @@
     "featured": false,
     "language": "JavaScript",
     "license": "unknown"
+  },
+  {
+    "id": "weavesilk-generative-art",
+    "name": "Silk — WeaveSilk",
+    "url": "https://weavesilk.com/",
+    "category": "Creative Coding",
+    "kind": "website",
+    "description": "Interactive generative art canvas for drawing symmetrical flowing light and silk-like patterns.",
+    "tags": [
+      "generative-art",
+      "drawing",
+      "symmetry",
+      "visual-effects",
+      "creative-coding",
+      "inspiration"
+    ],
+    "use_when": "Experiment with symmetric light-trail art and study real-time generative visual interactions.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false
+  },
+  {
+    "id": "bomomo-interactive-drawing",
+    "name": "Bomomo",
+    "url": "https://bomomo.com/",
+    "category": "Creative Coding",
+    "kind": "website",
+    "description": "Playful browser-based drawing toy featuring expressive procedural brushes and interactive generative marks.",
+    "tags": [
+      "generative-art",
+      "interactive-drawing",
+      "brushes",
+      "creative-web",
+      "visual-inspiration"
+    ],
+    "use_when": "Explore playful procedural drawing behaviors and creative web interaction patterns.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false
+  },
+  {
+    "id": "thisissand-digital-sand",
+    "name": "Thisissand",
+    "url": "https://thisissand.com/",
+    "category": "Creative Coding",
+    "kind": "website",
+    "description": "Interactive digital sand-art maker for composing layered colorful landscapes and gradients from falling grains.",
+    "tags": [
+      "sand-art",
+      "interactive-art",
+      "color",
+      "drawing",
+      "creative-coding",
+      "textures"
+    ],
+    "use_when": "Experiment with particle-like drawing, layered gradients and soothing interactive visuals.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false
+  },
+  {
+    "id": "patatap-sound-animation",
+    "name": "Patatap",
+    "url": "https://patatap.com/",
+    "category": "Creative Coding",
+    "kind": "website",
+    "description": "Interactive keyboard-triggered sound and animation kit combining colorful motion graphics with musical samples.",
+    "tags": [
+      "motion-graphics",
+      "interactive-audio",
+      "keyboard",
+      "sound-design",
+      "generative-art",
+      "animation"
+    ],
+    "use_when": "Explore immediate sound-reactive visual patterns and keyboard-driven motion interaction.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false
   }
 ]
