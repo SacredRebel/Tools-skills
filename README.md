@@ -9,8 +9,8 @@ A living searchable library for the websites, code repositories, skills, AI agen
 
 ## What is included
 
-- 46 links from the initial collection, plus the user's reference [dashboard-tools-](https://github.com/SacredRebel/dashboard-tools-) repository (47 total).
-- 15 distinct subject categories and tags, use cases, source type, archival flags and timestamps.
+- Continuously expanded collection: the original links, [dashboard-tools-](https://github.com/SacredRebel/dashboard-tools-) reference, and curated additions spanning CAD, architecture, 3D, UI/UX, agent skills, calendars, email, SEO and more.
+- Dynamic category navigation, keyword tags, use cases, source type, archival flags and timestamps. The dashboard calculates the current resource and category counts from the JSON catalog.
 - Fast visual dashboard with lazy-loaded page/repository preview images, search, categories, types, sorting, favorites and a details dialog.
 - Persistent browser-only personal drafts and favorites; JSON export for portability.
 - GitHub-backed source and a Save-to-GitHub issue submission route for permanent additions.
