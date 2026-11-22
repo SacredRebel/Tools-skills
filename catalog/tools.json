@@ -4701,5 +4701,30 @@
     "featured": false,
     "language": "unknown",
     "license": "unknown"
+  },
+  {
+    "id": "mobbin-design-inspiration",
+    "name": "Mobbin",
+    "url": "https://mobbin.com/",
+    "category": "Design & UI",
+    "kind": "website",
+    "description": "Searchable UI/UX design reference library featuring shipped mobile and web app screens, user flows, animations and interface patterns; also offers MCP access on eligible paid plans.",
+    "tags": [
+      "ui-inspiration",
+      "ux-research",
+      "mobile-apps",
+      "web-design",
+      "user-flows",
+      "screenshots",
+      "animations",
+      "design-patterns",
+      "mcp"
+    ],
+    "use_when": "Research proven interface patterns, onboarding and checkout flows, screen layouts and animations before designing a new app or website; review plan requirements for AI-agent MCP access.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
   }
 ]
