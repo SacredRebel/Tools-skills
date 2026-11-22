@@ -4560,5 +4560,90 @@
     "featured": false,
     "language": "Jupyter Notebook",
     "license": "unknown"
+  },
+  {
+    "id": "reactbits-website",
+    "name": "React Bits — Animated Components",
+    "url": "https://reactbits.dev/",
+    "category": "Design & UI",
+    "kind": "website",
+    "description": "React Bits showcase and library of animated React UI components, text effects, animations and visual backgrounds.",
+    "tags": [
+      "react",
+      "ui",
+      "animations",
+      "components",
+      "design-system",
+      "motion"
+    ],
+    "use_when": "Find ready-to-adapt animated React components and interactive frontend effects.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "reactbits-tools",
+    "name": "React Bits — Tools",
+    "url": "https://reactbits.dev/tools",
+    "category": "Design & UI",
+    "kind": "website",
+    "description": "Tools page of the React Bits component ecosystem for building and customizing animated React interfaces.",
+    "tags": [
+      "react",
+      "ui-tools",
+      "animation",
+      "motion",
+      "frontend"
+    ],
+    "use_when": "Explore React Bits tools for customizing or building motion-rich React interfaces.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "learn-anything-explore",
+    "name": "Learn Anything — Explore",
+    "url": "https://learn-anything.xyz/explore",
+    "category": "Learning & References",
+    "kind": "website",
+    "description": "Explore a visual, topic-oriented learning and knowledge discovery directory.",
+    "tags": [
+      "learning",
+      "knowledge",
+      "explore",
+      "resources",
+      "education"
+    ],
+    "use_when": "Discover structured learning material, topic maps, and references across technical and general subjects.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
+  },
+  {
+    "id": "quickref-cheatsheets",
+    "name": "QuickRef — Developer Cheatsheets",
+    "url": "https://quickref.me/index.html",
+    "category": "Learning & References",
+    "kind": "website",
+    "description": "Searchable developer quick-reference sheets covering languages, tools, commands and common programming workflows.",
+    "tags": [
+      "cheatsheets",
+      "developer-reference",
+      "quickref",
+      "programming",
+      "commands"
+    ],
+    "use_when": "Look up concise syntax and command references during coding and DevOps work.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-21",
+    "last_reviewed": "2026-11-21",
+    "featured": false
   }
 ]
