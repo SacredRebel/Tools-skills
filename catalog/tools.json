@@ -6778,5 +6778,286 @@
     "featured": false,
     "language": "PowerShell",
     "license": "MIT"
+  },
+  {
+    "id": "github-gristlabs-grist-core",
+    "name": "Grist",
+    "url": "https://github.com/gristlabs/grist-core",
+    "category": "Data & Analytics",
+    "kind": "platform",
+    "description": "Open-source relational spreadsheet and database workspace with forms, Python formulas and collaborative data views.",
+    "tags": [
+      "spreadsheet",
+      "database",
+      "airtable-alternative",
+      "python-formulas",
+      "relational-data",
+      "self-hosted",
+      "forms"
+    ],
+    "use_when": "Build database-backed spreadsheets and lightweight internal data applications as an Airtable-style alternative.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "license": "Apache-2.0",
+    "language": "TypeScript",
+    "comparison": {
+      "service": "Airtable",
+      "reference_price_usd_per_month": 24,
+      "price_source": "user-provided illustrative comparison; not independently verified",
+      "feature_parity_guaranteed": false
+    }
+  },
+  {
+    "id": "github-formbricks-formbricks",
+    "name": "Formbricks",
+    "url": "https://github.com/formbricks/formbricks",
+    "category": "Forms & Surveys",
+    "kind": "platform",
+    "description": "Open-source survey, customer-feedback and experience-management platform with embeddable surveys and data controls.",
+    "tags": [
+      "surveys",
+      "forms",
+      "feedback",
+      "typeform-alternative",
+      "customer-experience",
+      "self-hosted"
+    ],
+    "use_when": "Collect survey responses, customer feedback and research data through self-hosted or managed forms.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "license": "NOASSERTION",
+    "language": "TypeScript",
+    "comparison": {
+      "service": "Typeform",
+      "reference_price_usd_per_month": 39,
+      "price_source": "user-provided illustrative comparison; not independently verified",
+      "feature_parity_guaranteed": false
+    }
+  },
+  {
+    "id": "github-dgtlmoon-changedetection-io",
+    "name": "changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "category": "Monitoring & Automation",
+    "kind": "app",
+    "description": "Self-hostable website change monitoring with alerts for page edits, restocks, prices and other tracked content; offers an MCP interface.",
+    "tags": [
+      "website-monitoring",
+      "change-detection",
+      "alerts",
+      "price-tracking",
+      "restock",
+      "visualping-alternative",
+      "mcp"
+    ],
+    "use_when": "Track changes to permitted public web pages and receive alerts without manually checking sites.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "license": "Apache-2.0",
+    "language": "Python",
+    "comparison": {
+      "service": "Visualping",
+      "reference_price_usd_per_month": 14,
+      "price_source": "user-provided illustrative comparison; not independently verified",
+      "feature_parity_guaranteed": false
+    }
+  },
+  {
+    "id": "github-itzcrazykns-vane",
+    "name": "Vane (formerly Perplexica)",
+    "url": "https://github.com/ItzCrazyKns/Vane",
+    "category": "Research & Data",
+    "kind": "platform",
+    "description": "Open-source, self-hostable AI answer engine for web research with cited sources, configurable models and retrieval modes.",
+    "tags": [
+      "ai-search",
+      "perplexity-alternative",
+      "research",
+      "ollama",
+      "llm",
+      "search",
+      "self-hosted",
+      "citations"
+    ],
+    "use_when": "Run Perplexity-style research with a chosen model and search backend; model, search, hosting and API costs may still apply.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "license": "MIT",
+    "language": "TypeScript",
+    "comparison": {
+      "service": "Perplexity Pro",
+      "reference_price_usd_per_month": 20,
+      "price_source": "user-provided illustrative comparison; not independently verified",
+      "feature_parity_guaranteed": false
+    }
+  },
+  {
+    "id": "github-mintplex-labs-anything-llm",
+    "name": "AnythingLLM",
+    "url": "https://github.com/Mintplex-Labs/anything-llm",
+    "category": "AI Agents & Skills",
+    "kind": "platform",
+    "description": "Open-source local-first AI workspace for chatting with documents, retrieval-augmented knowledge bases and configurable AI agents.",
+    "tags": [
+      "local-ai",
+      "rag",
+      "documents",
+      "knowledge-base",
+      "llm",
+      "agents",
+      "self-hosted",
+      "chatgpt-alternative"
+    ],
+    "use_when": "Build a private AI knowledge assistant or agent workspace backed by supported local or hosted models.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "license": "MIT",
+    "language": "JavaScript",
+    "comparison": {
+      "service": "ChatGPT Business",
+      "reference_price_usd_per_month": 25,
+      "price_source": "user-provided illustrative comparison; not independently verified",
+      "feature_parity_guaranteed": false
+    }
+  },
+  {
+    "id": "github-stirling-tools-stirling-pdf",
+    "name": "Stirling-PDF",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "category": "Documents & PDF",
+    "kind": "app",
+    "description": "Web-accessible PDF processing toolkit supporting document editing, conversion, merging, splitting and other PDF workflows.",
+    "tags": [
+      "pdf",
+      "document-processing",
+      "pdf-editor",
+      "acrobat-alternative",
+      "merge",
+      "convert",
+      "self-hosted"
+    ],
+    "use_when": "Process and edit PDF documents without relying entirely on a commercial desktop PDF suite; check edition restrictions.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "license": "NOASSERTION",
+    "language": "TypeScript",
+    "comparison": {
+      "service": "Adobe Acrobat Pro",
+      "reference_price_usd_per_month": 29.99,
+      "price_source": "user-provided illustrative comparison; not independently verified",
+      "feature_parity_guaranteed": false
+    }
+  },
+  {
+    "id": "github-metabase-metabase",
+    "name": "Metabase",
+    "url": "https://github.com/metabase/metabase",
+    "category": "Data & Analytics",
+    "kind": "platform",
+    "description": "Open-source business intelligence and embedded analytics platform for queries, charts, dashboards and reporting.",
+    "tags": [
+      "business-intelligence",
+      "analytics",
+      "dashboards",
+      "sql",
+      "data-visualization",
+      "tableau-alternative",
+      "self-hosted"
+    ],
+    "use_when": "Give teams an accessible analytics and reporting layer on top of data sources.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "license": "NOASSERTION",
+    "language": "Clojure",
+    "comparison": {
+      "service": "Tableau",
+      "reference_price_usd_per_month": 75,
+      "price_source": "user-provided illustrative comparison; not independently verified",
+      "feature_parity_guaranteed": false
+    }
+  },
+  {
+    "id": "github-ghostfolio-ghostfolio",
+    "name": "Ghostfolio",
+    "url": "https://github.com/ghostfolio/ghostfolio",
+    "category": "Finance & Trading",
+    "kind": "app",
+    "description": "Open-source wealth and portfolio management application for tracking investments, net worth and asset performance.",
+    "tags": [
+      "portfolio",
+      "wealth-management",
+      "investing",
+      "personal-finance",
+      "net-worth",
+      "kubera-alternative",
+      "self-hosted"
+    ],
+    "use_when": "Track personal investment holdings and portfolio performance with a self-hosted wealth dashboard.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "license": "AGPL-3.0",
+    "language": "TypeScript",
+    "comparison": {
+      "service": "Kubera",
+      "reference_price_usd_per_month": 20.83,
+      "price_source": "user-provided illustrative comparison; not independently verified",
+      "feature_parity_guaranteed": false
+    }
+  },
+  {
+    "id": "github-openbq-org-openbb",
+    "name": "OpenBB",
+    "url": "https://github.com/openbq-org/OpenBB",
+    "category": "Finance & Trading",
+    "kind": "platform",
+    "description": "Open financial data and analytical tooling platform for researchers, analysts and AI agents, with integrations across financial data sources.",
+    "tags": [
+      "financial-data",
+      "market-research",
+      "quantitative-finance",
+      "analytics",
+      "stocks",
+      "ai-agents",
+      "bloomberg-category",
+      "open-data"
+    ],
+    "use_when": "Collect and analyze supported financial market data for research workflows; coverage and licensed feeds are not equivalent to a Bloomberg Terminal.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "license": "NOASSERTION",
+    "language": "Python",
+    "comparison": {
+      "service": "Bloomberg Terminal",
+      "reference_price_usd_per_month": 2665,
+      "price_source": "user-provided illustrative comparison; not independently verified",
+      "feature_parity_guaranteed": false
+    }
   }
 ]
