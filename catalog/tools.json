@@ -6732,5 +6732,51 @@
     "added_at": "2026-11-22",
     "last_reviewed": "2026-11-22",
     "featured": false
+  },
+  {
+    "id": "github-xiamuceer-j-mumuainovel",
+    "name": "MuMuAINovel",
+    "url": "https://github.com/xiamuceer-j/MuMuAINovel",
+    "category": "AI Image & Video",
+    "kind": "app",
+    "description": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事",
+    "tags": [
+      "ai-content-creation"
+    ],
+    "use_when": "Open-source AI-assisted novel writing environment for outlines, characters, worldbuilding and chapters; likely the 'MooMoo AI Novel' shown in the screenshot.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "language": "Python",
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "github-farkoal2128-autoclip-mvp",
+    "name": "AutoClip MVP",
+    "url": "https://github.com/Farkoal2128/AutoClip-MVP",
+    "category": "Video & Motion",
+    "kind": "app",
+    "description": "Open-source AI video clipper for Windows. Turn Twitch VODs, YouTube videos, and local recordings into captioned clips for YouTube Shorts, TikTok, Instagram Reels, and Facebook Reels. Local AI with Ollama.",
+    "tags": [
+      "ai-content-creation",
+      "ai-video-clipper",
+      "automatic-subtitles",
+      "content-repurposing",
+      "facebook-reels",
+      "instagram-reels",
+      "kick",
+      "livestreaming",
+      "local-first"
+    ],
+    "use_when": "Windows-based open-source AI video clipping project for captioned short-form clips; separate implementation from the AutoClip highlight generator and exact screenshot match uncertain.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "language": "PowerShell",
+    "license": "MIT"
   }
 ]
