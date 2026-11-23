@@ -7400,5 +7400,63 @@
     "featured": false,
     "license": "LGPL-2.1",
     "language": "C"
+  },
+  {
+    "id": "elasthic-studio-in-a-folder",
+    "name": "Studio in a Folder — elasthic",
+    "url": "https://www.patreon.com/elasthicmotion/posts/studio-in-folder-176031342",
+    "category": "Video & Motion",
+    "kind": "digital-product",
+    "description": "Creator-published Blender and Python cinematic-animation production workflow designed for AI coding agents such as Claude Code. Includes an art-direction approach and project materials; full package contents and purchase access are not independently verified.",
+    "tags": [
+      "blender",
+      "python",
+      "claude-code",
+      "3d-animation",
+      "motion-design",
+      "cinematic-production",
+      "agent-workflow",
+      "patreon",
+      "paid-resource"
+    ],
+    "use_when": "Explore a reusable Claude + Blender/Python workflow for creating and rendering 3D motion films. Check the creator's current terms, purchase access, file contents and required Blender/Claude versions before use.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "access": "creator Patreon post; full package may require purchase or membership",
+    "verification_note": "Linked exact post supplied by user; Patreon post could not be opened for full content verification."
+  },
+  {
+    "id": "github-affitor-affiliate-skills",
+    "name": "Affitor — Affiliate Skills",
+    "url": "https://github.com/Affitor/affiliate-skills",
+    "category": "Marketing & Launch",
+    "kind": "agent-skill",
+    "description": "Open-source library of 50 AI agent skills for affiliate marketing: trend and social research, content planning, data-informed posts, infographics, landing pages and deployment workflows. Supports common AI coding agents and assistants.",
+    "tags": [
+      "affiliate-marketing",
+      "agent-skills",
+      "claude-code",
+      "chatgpt",
+      "gemini",
+      "cursor",
+      "windsurf",
+      "seo",
+      "content-marketing",
+      "landing-pages",
+      "social-research",
+      "affiliate"
+    ],
+    "use_when": "Choose specialized agent skills for researching affiliate opportunities, creating promotional content and landing pages, and iterating on affiliate marketing campaigns. Review each skill and credentials before connecting accounts.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-22",
+    "last_reviewed": "2026-11-22",
+    "featured": false,
+    "language": "HTML",
+    "license": "MIT",
+    "homepage": "https://affitor.com"
   }
 ]
