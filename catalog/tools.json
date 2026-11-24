@@ -12,7 +12,7 @@
       "motion",
       "components"
     ],
-    "use_when": "Use when: Animated React components built with Tailwind, Motion and GSAP.",
+    "use_when": "Use when building a React/Tailwind interface that needs ready-made animated components driven by Motion or GSAP.",
     "source": "website",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -32,7 +32,7 @@
       "templates",
       "premium"
     ],
-    "use_when": "Use when: Premium animated React/Tailwind sections, templates and components.",
+    "use_when": "Use when you want paid, polished animated landing-page sections and templates for a React/Tailwind site.",
     "source": "website",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -51,7 +51,7 @@
       "shadcn",
       "webgl"
     ],
-    "use_when": "Use when: Animated shadcn-compatible React components with canvas and WebGL effects.",
+    "use_when": "Use when you need shadcn-compatible React components with canvas or WebGL effects.",
     "source": "website",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -71,7 +71,7 @@
       "ai-video",
       "mcp"
     ],
-    "use_when": "Use when: AI short-form video editor using raw footage, references and creative briefs.",
+    "use_when": "Use when you want an AI editor to cut short-form videos from raw footage, reference clips and a written brief.",
     "source": "website",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -90,7 +90,7 @@
       "mcp",
       "creative"
     ],
-    "use_when": "Use when: Design library and AI studio for components, backgrounds and agent-accessible assets.",
+    "use_when": "Use when you need design components, backgrounds or assets that an AI agent can pull in directly.",
     "source": "website",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -109,7 +109,7 @@
       "webgl",
       "scenes"
     ],
-    "use_when": "Use when: GetLayers collection of cinematic 3D scene designs and prompts.",
+    "use_when": "Use when you want cinematic 3D scene designs and the prompts behind them as inspiration or a starting point.",
     "source": "website",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -128,7 +128,7 @@
       "launch",
       "directories"
     ],
-    "use_when": "Use when: Startup directories, submission opportunities and launch-planning references.",
+    "use_when": "Use when planning a launch and you need a list of startup directories and submission sites.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -147,7 +147,7 @@
       "distribution",
       "communities"
     ],
-    "use_when": "Use when: Community-curated list of places to promote a startup and reach early adopters.",
+    "use_when": "Use when looking for communities and channels where early adopters will see your startup.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -167,7 +167,7 @@
       "metrics",
       "legacy"
     ],
-    "use_when": "Use when: PHP library for collecting SEO-related metrics; original repository is archived.",
+    "use_when": "Use only for reference: a PHP SEO-metrics collector whose original repository is archived.",
     "source": "github",
     "status": "archived",
     "added_at": "2026-11-21",
@@ -186,7 +186,7 @@
       "audit",
       "crawl"
     ],
-    "use_when": "Use when: Open-source technical SEO auditing and website-crawling tool.",
+    "use_when": "Use when you want to self-host a technical SEO audit that crawls a site and reports issues.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -206,7 +206,7 @@
       "geo",
       "agents"
     ],
-    "use_when": "Use when: SEO and GEO skills with MCP integration for search and marketing data.",
+    "use_when": "Use when an agent needs SEO and GEO skills wired to search and marketing data through MCP.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -225,7 +225,7 @@
       "keywords",
       "competitors"
     ],
-    "use_when": "Use when: Open-source SEO research platform positioned as an alternative to commercial suites.",
+    "use_when": "Use when you want an open-source SEO research platform as an alternative to commercial suites.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -244,7 +244,7 @@
       "ai-video",
       "studio"
     ],
-    "use_when": "Use when: Image-and-video generation studio with unified model controls.",
+    "use_when": "Use when you want one studio to generate images and video with unified controls across several models.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -263,7 +263,7 @@
       "models",
       "self-hosted"
     ],
-    "use_when": "Use when: Self-hostable AI image-generation studio supporting multiple models.",
+    "use_when": "Use when you want a self-hostable image-generation studio that supports multiple models.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -282,7 +282,7 @@
       "loom",
       "demos"
     ],
-    "use_when": "Use when: Open-source screen recorder for shareable demos and walkthroughs.",
+    "use_when": "Use when you need an open-source screen recorder to make shareable demos and walkthroughs.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -301,7 +301,7 @@
       "claude-code",
       "cloudflare"
     ],
-    "use_when": "Use when: Agent skills for deployment and coordinated AI-assisted building.",
+    "use_when": "Use when an agent should deploy projects and coordinate AI-assisted building with a set of ready skills.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -320,7 +320,7 @@
       "agents",
       "code-analysis"
     ],
-    "use_when": "Use when: Agent-based reverse engineering of application behavior and software.",
+    "use_when": "Use when you want an agent to reverse engineer how an application or piece of software behaves.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -339,7 +339,7 @@
       "api",
       "codegen"
     ],
-    "use_when": "Use when: Generate documentation and code from AsyncAPI specifications.",
+    "use_when": "Use when you need documentation or code generated from AsyncAPI specifications for event-driven APIs.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -358,7 +358,7 @@
       "drag-drop",
       "frontend"
     ],
-    "use_when": "Use when: Educational code and slides for HTML5 drag-and-drop.",
+    "use_when": "Use when learning or teaching HTML5 drag-and-drop with working code and slides.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -378,7 +378,7 @@
       "slides",
       "agents"
     ],
-    "use_when": "Use when: Turn academic papers into slides, posters, webpages and social content.",
+    "use_when": "Use when you need an academic paper turned into slides, a poster, a web page or social posts.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -397,7 +397,7 @@
       "agents",
       "editing"
     ],
-    "use_when": "Use when: Open-source AI video agent with editable results.",
+    "use_when": "Use when you want an open-source AI video agent whose output stays editable.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -416,7 +416,7 @@
       "documents",
       "conversion"
     ],
-    "use_when": "Use when: Turn documents, logs and source files into interactive, shareable HTML.",
+    "use_when": "Use when you need documents, logs or source files turned into interactive, shareable HTML.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -435,7 +435,7 @@
       "html",
       "experiments"
     ],
-    "use_when": "Use when: Render visual content using HTML checkboxes.",
+    "use_when": "Use when you want to render graphics or animation out of HTML checkboxes.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -454,7 +454,7 @@
       "audio",
       "web-audio"
     ],
-    "use_when": "Use when: Cross-browser JavaScript API for loading and playing sound.",
+    "use_when": "Use when a web app needs a cross-browser JavaScript API to load and play sound.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -473,7 +473,7 @@
       "daw",
       "audio"
     ],
-    "use_when": "Use when: Open-source Rust digital audio workstation.",
+    "use_when": "Use when you want an open-source digital audio workstation written in Rust.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -492,7 +492,7 @@
       "audio",
       "playback"
     ],
-    "use_when": "Use when: Cross-browser JavaScript sound playback and control.",
+    "use_when": "Use when a web page needs simple cross-browser JavaScript sound playback and control.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -511,7 +511,7 @@
       "recorder",
       "mobile"
     ],
-    "use_when": "Use when: Android sound-recording app with Material Design.",
+    "use_when": "Use when you need a reference or base for an Android sound-recording app with Material Design.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -530,7 +530,7 @@
       "audio",
       "devices"
     ],
-    "use_when": "Use when: Windows utility for changing the default audio output device.",
+    "use_when": "Use when you want to change the default audio output device quickly on Windows.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -549,7 +549,7 @@
       "audio",
       "web-audio"
     ],
-    "use_when": "Use when: WebAudio playback library with filters for browser apps.",
+    "use_when": "Use when a PixiJS or browser app needs WebAudio playback with filters.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -568,7 +568,7 @@
       "agents",
       "audio-search"
     ],
-    "use_when": "Use when: Agent-facing sound-effects search across audio libraries.",
+    "use_when": "Use when an agent needs to search sound effects across several audio libraries.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -587,7 +587,7 @@
       "synthesis",
       "audio"
     ],
-    "use_when": "Use when: Audio playback, synthesis and analysis for p5.js.",
+    "use_when": "Use when a p5.js sketch needs audio playback, synthesis or analysis.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -606,7 +606,7 @@
       "redux",
       "soundcloud"
     ],
-    "use_when": "Use when: React/Redux SoundCloud client demonstration.",
+    "use_when": "Use when you want a React/Redux example of a SoundCloud client to study.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -625,7 +625,7 @@
       "voice",
       "speech"
     ],
-    "use_when": "Use when: Open speech-synthesis research for natural-sounding TTS.",
+    "use_when": "Use when you want to follow or reproduce open speech-synthesis research for natural-sounding text-to-speech.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -644,7 +644,7 @@
       "soundcloud",
       "electron"
     ],
-    "use_when": "Use when: Desktop SoundCloud client built with Electron and AngularJS.",
+    "use_when": "Use when you want a desktop SoundCloud client or an Electron/AngularJS reference app.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -663,7 +663,7 @@
       "node-editor",
       "audio"
     ],
-    "use_when": "Use when: Node-based GUI for the Composers Desktop Project.",
+    "use_when": "Use when you want a node-based graphical interface for the Composers Desktop Project sound tools.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -682,7 +682,7 @@
       "headphones",
       "frequency"
     ],
-    "use_when": "Use when: Automatic headphone equalization from measured frequency responses.",
+    "use_when": "Use when you want automatic headphone equalization built from measured frequency responses.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -702,7 +702,7 @@
       "frequency",
       "dataset"
     ],
-    "use_when": "Use when: Word-frequency lists and generator tools for language analysis.",
+    "use_when": "Use when you need word-frequency lists or tools to generate them for language analysis (not audio).",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -721,7 +721,7 @@
       "trading",
       "bots"
     ],
-    "use_when": "Use when: Open-source infrastructure for algorithmic crypto trading bots.",
+    "use_when": "Use when you want open-source infrastructure to build and run algorithmic crypto trading bots.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -740,7 +740,7 @@
       "security",
       "games"
     ],
-    "use_when": "Use when: Basic anti-cheat system; unrelated to audio frequency.",
+    "use_when": "Use when you want a basic game anti-cheat reference; it has nothing to do with audio frequency.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -759,7 +759,7 @@
       "text",
       "statistics"
     ],
-    "use_when": "Use when: Research code for statistical frequency laws in text.",
+    "use_when": "Use when you want research code on statistical frequency laws in text (not audio).",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -778,7 +778,7 @@
       "finance",
       "spectral-analysis"
     ],
-    "use_when": "Use when: Spectral decomposition of financial connectedness measures.",
+    "use_when": "Use when you are studying spectral decomposition of financial connectedness measures.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -789,7 +789,7 @@
     "id": "focal-frequency-loss",
     "name": "Focal Frequency Loss",
     "url": "https://github.com/EndlessSora/focal-frequency-loss",
-    "category": "Machine Learning",
+    "category": "Research & Data",
     "kind": "research",
     "description": "Frequency-domain loss function for image reconstruction and synthesis.",
     "tags": [
@@ -797,7 +797,7 @@
       "training",
       "loss"
     ],
-    "use_when": "Use when: Frequency-domain loss function for image reconstruction and synthesis.",
+    "use_when": "Use when training image-reconstruction or synthesis models and you want a frequency-domain loss function.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -816,7 +816,7 @@
       "hft",
       "markets"
     ],
-    "use_when": "Use when: Code exploring high-frequency market making.",
+    "use_when": "Use when you want example code exploring high-frequency market making.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -827,7 +827,7 @@
     "id": "vibration",
     "name": "Vibration",
     "url": "https://github.com/BenoitFreslon/Vibration",
-    "category": "Haptics & Hardware",
+    "category": "Developer Tools",
     "kind": "library",
     "description": "Unity plugin for custom Android and iOS mobile vibrations.",
     "tags": [
@@ -835,7 +835,7 @@
       "mobile",
       "haptics"
     ],
-    "use_when": "Use when: Unity plugin for custom Android and iOS mobile vibrations.",
+    "use_when": "Use when a Unity game needs custom Android and iOS mobile vibration patterns.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -846,7 +846,7 @@
     "id": "nice-vibrations",
     "name": "Nice Vibrations",
     "url": "https://github.com/Lofelt/NiceVibrations",
-    "category": "Haptics & Hardware",
+    "category": "Developer Tools",
     "kind": "sdk",
     "description": "Haptic tooling and SDK code; repository is archived.",
     "tags": [
@@ -854,7 +854,7 @@
       "unity",
       "vibration"
     ],
-    "use_when": "Use when: Haptic tooling and SDK code; repository is archived.",
+    "use_when": "Use only for reference: archived haptic tooling and SDK code for mobile vibration.",
     "source": "github",
     "status": "archived",
     "added_at": "2026-11-21",
@@ -873,7 +873,7 @@
       "deep-learning",
       "fluid-dynamics"
     ],
-    "use_when": "Use when: Deep-learning research on vortex-induced vibrations in fluid mechanics.",
+    "use_when": "Use when you want deep-learning research code for vortex-induced vibrations in fluid mechanics.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -892,7 +892,7 @@
       "design-system",
       "agents"
     ],
-    "use_when": "Use when: Personal dashboard toolkit, design rulebook and agent workflow catalog.",
+    "use_when": "Use when you want the author's dashboard toolkit, design rulebook and agent workflow catalog as a reference.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-21",
@@ -903,7 +903,7 @@
     "id": "revit-mcp-original",
     "name": "Revit MCP (Original)",
     "url": "https://github.com/mcp-servers-for-revit/revit-mcp",
-    "category": "Architecture & BIM",
+    "category": "Architecture & Construction",
     "kind": "agent-tool",
     "description": "Original AI-powered Autodesk Revit modeling MCP integration. The upstream repository is archived.",
     "tags": [
@@ -927,7 +927,7 @@
     "id": "mcp-servers-for-revit-sparx-fork",
     "name": "MCP Servers for Revit (Sparx Fork)",
     "url": "https://github.com/mcp-servers-for-revit/mcp-servers-for-revit",
-    "category": "Architecture & BIM",
+    "category": "Architecture & Construction",
     "kind": "agent-tool",
     "description": "C# fork of the Revit MCP integration for connecting AI agents with Autodesk Revit workflows.",
     "tags": [
@@ -951,7 +951,7 @@
     "id": "architectural-design-pipeline",
     "name": "Architectural Design Pipeline",
     "url": "https://github.com/Mhrnqaruni/architectural-design-pipeline",
-    "category": "Architecture & BIM",
+    "category": "Architecture & Construction",
     "kind": "repository",
     "description": "Parametric concept-stage architectural design pipeline producing CAD drawings (DXF/PDF), a furnished Three.js model, and verified area schedules.",
     "tags": [
@@ -977,7 +977,7 @@
     "id": "architectural-concept-design-agent-skill",
     "name": "Architectural Concept Design Agent Skill",
     "url": "https://github.com/Mhrnqaruni/ai-agent-skill-architectural-concept-design",
-    "category": "Architecture & BIM",
+    "category": "Architecture & Construction",
     "kind": "agent-skill",
     "description": "Agent skill for Claude Code, Codex and other assistants that turns building briefs into checked concept designs with CAD drawings, furnished 3D views and area schedules.",
     "tags": [
@@ -1003,7 +1003,7 @@
     "id": "bimwright-rvt-mcp",
     "name": "BIMwright RVT MCP",
     "url": "https://github.com/bimwright/rvt-mcp",
-    "category": "Architecture & BIM",
+    "category": "Architecture & Construction",
     "kind": "agent-tool",
     "description": "BIMwright AI-native MCP server for Autodesk Revit, with documented support for Revit 2022–2027.",
     "tags": [
@@ -1028,7 +1028,7 @@
     "id": "openconstruction-erp",
     "name": "OpenConstruction ERP",
     "url": "https://github.com/datadrivenconstruction/OpenConstructionERP",
-    "category": "Construction & Estimation",
+    "category": "Architecture & Construction",
     "kind": "platform",
     "description": "Open-source construction ERP covering bill of quantities, PDF/CAD/BIM takeoff, AI-assisted cost matching and construction-management modules.",
     "tags": [
@@ -1054,7 +1054,7 @@
     "id": "openconstruction-estimate-ddc-cwicr",
     "name": "OpenConstruction Estimate (DDC CWICR)",
     "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "category": "Construction & Estimation",
+    "category": "Architecture & Construction",
     "kind": "dataset",
     "description": "Multilingual construction cost and work-item database for estimators and AI agents, with regional data and semantic-search integrations.",
     "tags": [
@@ -1079,7 +1079,7 @@
     "id": "open-construction-simulator",
     "name": "Open Construction Simulator",
     "url": "https://github.com/Field-Robotics-Japan/OpenConstructionSimulator",
-    "category": "Construction & Estimation",
+    "category": "Architecture & Construction",
     "kind": "app",
     "description": "Open-source construction simulation project from Field Robotics Japan.",
     "tags": [
@@ -1102,7 +1102,7 @@
     "id": "comfyui-pascal-editor",
     "name": "ComfyUI Pascal Editor",
     "url": "https://github.com/jtydhr88/ComfyUI-PascalEditor",
-    "category": "Architecture & BIM",
+    "category": "Architecture & Construction",
     "kind": "library",
     "description": "ComfyUI extension that integrates Pascal Editor, a browser-first architectural 3D editor, into ComfyUI workflows.",
     "tags": [
@@ -1127,7 +1127,7 @@
     "id": "pascal-editor",
     "name": "Pascal Editor",
     "url": "https://github.com/pascalorg/editor",
-    "category": "Architecture & BIM",
+    "category": "Architecture & Construction",
     "kind": "app",
     "description": "Open-source browser-first 3D architecture editor for AECO and scan-to-BIM workflows, with MCP and CLI interfaces.",
     "tags": [
@@ -1828,7 +1828,7 @@
     "id": "zhm-real-motionplanning",
     "name": "MotionPlanning",
     "url": "https://github.com/zhm-real/MotionPlanning",
-    "category": "Robotics & Motion Planning",
+    "category": "Research & Data",
     "kind": "repository",
     "description": "Motion planning algorithms commonly used on autonomous vehicles. (path planning + path tracking)",
     "tags": [
@@ -1857,7 +1857,7 @@
     "id": "motion-project-motion",
     "name": "motion",
     "url": "https://github.com/Motion-Project/motion",
-    "category": "Video Surveillance",
+    "category": "Security & Compliance",
     "kind": "repository",
     "description": "Motion, a software motion detector.     Home page:  https://motion-project.github.io/",
     "tags": [
@@ -3374,7 +3374,7 @@
     "id": "fugitech-google-meet-grid-view",
     "name": "google meet grid view",
     "url": "https://github.com/FugiTech/google-meet-grid-view",
-    "category": "Video Meetings",
+    "category": "Calendar & Scheduling",
     "kind": "repository",
     "description": "Userscript to offer a grid-view layout in Google Meets",
     "tags": [
@@ -3397,7 +3397,7 @@
     "id": "0x5eba-video-meeting",
     "name": "Video Meeting",
     "url": "https://github.com/0x5eba/Video-Meeting",
-    "category": "Video Meetings",
+    "category": "Calendar & Scheduling",
     "kind": "repository",
     "description": "Google Meet / Zoom clone in a few lines of code",
     "tags": [
@@ -3427,7 +3427,7 @@
     "id": "ckalgos-google-meet-clone",
     "name": "google meet clone",
     "url": "https://github.com/ckalgos/google-meet-clone",
-    "category": "Video Meetings",
+    "category": "Calendar & Scheduling",
     "kind": "repository",
     "description": "Video Conference App like Google-Meet",
     "tags": [
@@ -4427,7 +4427,7 @@
     "id": "sackmotion-motion",
     "name": "motion",
     "url": "https://github.com/sackmotion/motion",
-    "category": "Video Surveillance",
+    "category": "Security & Compliance",
     "kind": "app",
     "description": "Motion, a software motion detector",
     "tags": [
@@ -4447,7 +4447,7 @@
     "id": "motioneye-project-motioneye",
     "name": "motioneye",
     "url": "https://github.com/motioneye-project/motioneye",
-    "category": "Video Surveillance",
+    "category": "Security & Compliance",
     "kind": "app",
     "description": "A web frontend for the motion daemon.",
     "tags": [
@@ -4611,7 +4611,7 @@
     "id": "learn-anything-explore",
     "name": "Learn Anything — Explore",
     "url": "https://learn-anything.xyz/explore",
-    "category": "Learning & References",
+    "category": "Productivity & Learning",
     "kind": "website",
     "description": "Explore a visual, topic-oriented learning and knowledge discovery directory.",
     "tags": [
@@ -4632,7 +4632,7 @@
     "id": "quickref-cheatsheets",
     "name": "QuickRef — Developer Cheatsheets",
     "url": "https://quickref.me/index.html",
-    "category": "Learning & References",
+    "category": "Productivity & Learning",
     "kind": "website",
     "description": "Searchable developer quick-reference sheets covering languages, tools, commands and common programming workflows.",
     "tags": [
@@ -4782,7 +4782,7 @@
     "url": "https://github.com/lemomo-ai/lemo-opuscar",
     "category": "Video & Motion",
     "kind": "agent-skill",
-    "description": "Claude Code film-making style toolbox for generating animated short films from code, including a library of ready-made visual styles.",
+    "description": "99 film styles for a coding agent: pick a style, bring a story, and the agent makes the short film entirely in code. Includes a gallery; built and tuned for Claude models.",
     "tags": [
       "claude-code",
       "motion-graphics",
@@ -4792,13 +4792,13 @@
       "creative-coding",
       "agent-skill"
     ],
-    "use_when": "Produce stylized short videos with Claude Code and code-rendered animation rather than relying exclusively on video generation models.",
+    "use_when": "Use when you want stylised short films made with Claude Code and code-rendered animation instead of video-generation models.",
     "source": "github",
-    "license": "NOASSERTION",
+    "license": "MIT",
     "language": "JavaScript",
     "status": "unverified-active",
     "added_at": "2026-11-22",
-    "last_reviewed": "2026-11-22",
+    "last_reviewed": "2026-11-24",
     "featured": false
   },
   {
@@ -4876,7 +4876,7 @@
     "id": "anki-flashcards",
     "name": "Anki",
     "url": "https://apps.ankiweb.net/",
-    "category": "Learning & References",
+    "category": "Productivity & Learning",
     "kind": "app",
     "description": "Spaced-repetition flashcard application for long-term knowledge retention and active recall.",
     "tags": [
@@ -4966,7 +4966,7 @@
     "id": "gamedev-skills-awesome-gamedev-agent-skills",
     "name": "Awesome GameDev Agent Skills",
     "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-    "category": "Game Development & Engines",
+    "category": "AI Agents & Skills",
     "kind": "agent-skill",
     "description": "Collection of game-development AI agent skills and a skill router covering Godot, Unity, Unreal, Roblox, Three.js, Phaser and additional engines; upstream README describes 79 skills.",
     "tags": [
@@ -5015,7 +5015,7 @@
     "id": "appflowy-io-appflowy",
     "name": "AppFlowy",
     "url": "https://github.com/AppFlowy-IO/AppFlowy",
-    "category": "Productivity & Knowledge Management",
+    "category": "Productivity & Learning",
     "kind": "app",
     "description": "Open-source collaborative documents, knowledge bases, wikis, project boards and AI-assisted workspace; an alternative to Notion.",
     "tags": [
@@ -5061,7 +5061,7 @@
     "id": "opf-openproject",
     "name": "OpenProject",
     "url": "https://github.com/opf/openproject",
-    "category": "Project Management & Planning",
+    "category": "Productivity & Learning",
     "kind": "platform",
     "description": "Open-source project and portfolio management system with task tracking, agile boards, Gantt charts, roadmaps and time tracking; Asana/Jira alternative.",
     "tags": [
@@ -5132,7 +5132,7 @@
     "id": "makazhanalpamys-soup",
     "name": "Soup — LLM Fine-tuning",
     "url": "https://github.com/MakazhanAlpamys/Soup",
-    "category": "AI Model Training",
+    "category": "Research & Data",
     "kind": "framework",
     "description": "Fine-tune LLMs from YAML configurations with layer-streaming techniques intended to reduce GPU memory needs; upstream claims 8B-model training with a 4 GB GPU.",
     "tags": [
@@ -5178,7 +5178,7 @@
     "id": "docusealco-docuseal",
     "name": "DocuSeal",
     "url": "https://github.com/docusealco/docuseal",
-    "category": "Business Documents & Signing",
+    "category": "Business Operations",
     "kind": "platform",
     "description": "Open-source electronic signature and document-form workflow software, a self-hostable alternative to DocuSign or SignWell.",
     "tags": [
@@ -5225,7 +5225,7 @@
     "id": "invoiceshelf-invoiceshelf",
     "name": "InvoiceShelf",
     "url": "https://github.com/InvoiceShelf/InvoiceShelf",
-    "category": "Finance & Invoicing",
+    "category": "Business Operations",
     "kind": "platform",
     "description": "Open-source invoicing application for freelancers and businesses, with invoice and customer management.",
     "tags": [
@@ -5364,7 +5364,7 @@
     "id": "chatwoot-chatwoot",
     "name": "Chatwoot",
     "url": "https://github.com/chatwoot/chatwoot",
-    "category": "Customer Support & CRM",
+    "category": "Business Operations",
     "kind": "platform",
     "description": "Open-source customer support inbox combining live chat, email and other supported channels; alternative to Intercom and Zendesk.",
     "tags": [
@@ -6616,7 +6616,9 @@
     "kind": "agent-skill",
     "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
     "tags": [
-      "claude-code"
+      "claude-code",
+      "agent-skills",
+      "workflow"
     ],
     "use_when": "Use opinionated role-based agent workflows for planning, design, code review and release management.",
     "source": "github",
@@ -6635,7 +6637,9 @@
     "kind": "repository",
     "description": "A collection of two dimensional animations that are triggered by sound.",
     "tags": [
-      "creative-coding"
+      "creative-coding",
+      "audio",
+      "javascript"
     ],
     "use_when": "Study the open-source code of a sound-triggered visual animation playground.",
     "source": "github",
@@ -6741,7 +6745,10 @@
     "kind": "app",
     "description": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事",
     "tags": [
-      "ai-content-creation"
+      "ai-content-creation",
+      "writing",
+      "novel",
+      "ai-writing"
     ],
     "use_when": "Open-source AI-assisted novel writing environment for outlines, characters, worldbuilding and chapters; likely the 'MooMoo AI Novel' shown in the screenshot.",
     "source": "github",
@@ -6814,7 +6821,7 @@
     "id": "github-formbricks-formbricks",
     "name": "Formbricks",
     "url": "https://github.com/formbricks/formbricks",
-    "category": "Forms & Surveys",
+    "category": "Business Operations",
     "kind": "platform",
     "description": "Open-source survey, customer-feedback and experience-management platform with embeddable surveys and data controls.",
     "tags": [
@@ -6844,7 +6851,7 @@
     "id": "github-dgtlmoon-changedetection-io",
     "name": "changedetection.io",
     "url": "https://github.com/dgtlmoon/changedetection.io",
-    "category": "Monitoring & Automation",
+    "category": "Data & Analytics",
     "kind": "app",
     "description": "Self-hostable website change monitoring with alerts for page edits, restocks, prices and other tracked content; offers an MCP interface.",
     "tags": [
@@ -6939,7 +6946,7 @@
     "id": "github-stirling-tools-stirling-pdf",
     "name": "Stirling-PDF",
     "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-    "category": "Documents & PDF",
+    "category": "Business Operations",
     "kind": "app",
     "description": "Web-accessible PDF processing toolkit supporting document editing, conversion, merging, splitting and other PDF workflows.",
     "tags": [
@@ -7256,7 +7263,7 @@
       "seo",
       "youtube-api"
     ],
-    "use_when": "Reference only; stale.",
+    "use_when": "Use only as a reference for generating YouTube SEO text; the repository looks stale, so check it before relying on it.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-22",
@@ -7458,5 +7465,298 @@
     "language": "HTML",
     "license": "MIT",
     "homepage": "https://affitor.com"
+  },
+  {
+    "id": "zhgarylu-claude-video",
+    "name": "Claude Video",
+    "url": "https://github.com/zhgarylu/claude-video",
+    "category": "Video & Motion",
+    "kind": "agent-skill",
+    "description": "Derivative of Lemo-Opuscar: 91 code-made film styles, each with a short film, plus a workflow that draws an animated explainer around a presenter's talking-head video. Includes a style gallery.",
+    "tags": [
+      "video",
+      "film-styles",
+      "talking-head",
+      "claude-code",
+      "agent-skill"
+    ],
+    "use_when": "Use when you want a coding agent to direct a styled short film, or to wrap a presenter's video in an animated explainer.",
+    "source": "github",
+    "license": "MIT",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "anneheartrecord-charles-video-maker",
+    "name": "charles-video-maker",
+    "url": "https://github.com/anneheartrecord/charles-video-maker",
+    "category": "Video & Motion",
+    "kind": "agent-skill",
+    "description": "Agent skill that turns a script into a finished video with voice-over, subtitles, cover and publishing copy; frames are drawn by code. Needs Python, Node and FFmpeg.",
+    "tags": [
+      "video",
+      "voiceover",
+      "subtitles",
+      "ffmpeg",
+      "agent-skill"
+    ],
+    "use_when": "Use when you want a script turned into a complete, publish-ready video by a repeatable agent pipeline.",
+    "source": "github",
+    "license": "MIT",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "alchaincyf-huashu-art-motion",
+    "name": "Huashu Art Motion",
+    "url": "https://github.com/alchaincyf/huashu-art-motion",
+    "category": "Video & Motion",
+    "kind": "agent-skill",
+    "description": "Agent skill that writes art styles as moving pictures: 36 art styles, 9 explainer grammars, 8 parameterised clips and reference code for talking-head videos. Installs with npx skills add.",
+    "tags": [
+      "video",
+      "motion",
+      "art-styles",
+      "claude-code",
+      "agent-skill"
+    ],
+    "use_when": "Use when you want an agent to animate in a named art style (Monet-like, ink, pixel and others) or build a narrated explainer.",
+    "source": "github",
+    "license": "MIT",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "alisa0808-vox-director",
+    "name": "Vox Director",
+    "url": "https://github.com/Alisa0808/vox-director",
+    "category": "Video & Motion",
+    "kind": "agent-skill",
+    "description": "Agent skill that turns one topic into a Vox-style paper-collage explainer or ad: script, collage keyframes, motion, voice-over, music and captions. Uses the Atlas Cloud API plus local ffmpeg.",
+    "tags": [
+      "video",
+      "explainer",
+      "paper-collage",
+      "ffmpeg",
+      "agent-skill"
+    ],
+    "use_when": "Use when you need a collage-style explainer or ad video produced end to end from a topic, and you can use the Atlas Cloud API.",
+    "source": "github",
+    "license": "MIT",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "bangtutorial-bang-motion",
+    "name": "Bang Motion",
+    "url": "https://github.com/bangtutorial/bang-motion",
+    "category": "Video & Motion",
+    "kind": "agent-skill",
+    "description": "Agent skill that makes an AI coding agent work like a motion designer: openers, promos, product demos, kinetic typography and explainers built as a single index.html that plays like video.",
+    "tags": [
+      "motion-graphics",
+      "kinetic-typography",
+      "html",
+      "explainer",
+      "agent-skill"
+    ],
+    "use_when": "Use when you want an agent to produce motion-designed openers, promos or explainers instead of slide-like output.",
+    "source": "github",
+    "license": "MIT",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "staryone-motlab",
+    "name": "motlab",
+    "url": "https://github.com/staryone/motlab",
+    "category": "Video & Motion",
+    "kind": "framework",
+    "description": "Video as code: each scene is a canvas page with a renderAt(t) function, played in a frame-stepping web viewer and rendered with WebCodecs in headless Chrome, plus an agent skill that builds scenes from your references.",
+    "tags": [
+      "video-as-code",
+      "canvas",
+      "webcodecs",
+      "headless-chrome",
+      "agent-skill"
+    ],
+    "use_when": "Use when you want reviewable, frame-accurate code-driven video that an agent can write and you can export at high resolution.",
+    "source": "github",
+    "license": "MIT",
+    "language": "JavaScript",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "cloveric-claude-drawing-skill",
+    "name": "Claude Drawing Skill",
+    "url": "https://github.com/cloveric/claude-drawing-skill",
+    "category": "Creative Coding",
+    "kind": "agent-skill",
+    "description": "Claude Code skill plus a small numpy and Pillow painting library with 83 code-drawn styles, from ink wash and oil to stained glass. Runs offline on CPU, is seed-reproducible and can animate stroke by stroke.",
+    "tags": [
+      "drawing",
+      "generative-art",
+      "claude-code",
+      "python",
+      "agent-skill"
+    ],
+    "use_when": "Use when you want an agent to paint or illustrate in code, with exact control, no image model and reproducible output.",
+    "source": "github",
+    "license": "MIT",
+    "language": "Python",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "lishuangqiang-mixbar",
+    "name": "Mixbar",
+    "url": "https://github.com/lishuangqiang/mixbar",
+    "category": "Audio & Music",
+    "kind": "app",
+    "description": "Native macOS menu bar mixer with per-app volume from 0 to 200%, built on Core Audio Process Tap: no audio driver, no account, no telemetry.",
+    "tags": [
+      "macos",
+      "volume-mixer",
+      "menu-bar",
+      "swift",
+      "audio"
+    ],
+    "use_when": "Use when you want separate volume levels per app on a Mac without installing a virtual audio driver.",
+    "source": "github",
+    "license": "MIT",
+    "language": "Swift",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "brianbell-x-codehygiene",
+    "name": "codehygiene",
+    "url": "https://github.com/brianbell-x/codehygiene",
+    "category": "Developer Tools",
+    "kind": "utility",
+    "description": "Offline linter that flags hard-to-read code by its shape: it reads source as a grid of bytes with a tiny 8 KB ternary-weight model, so names and spelling are ignored. Installable as an agent skill.",
+    "tags": [
+      "linter",
+      "readability",
+      "offline",
+      "python",
+      "agent-skill"
+    ],
+    "use_when": "Use when you want a fast offline readability check on code, locally or as a skill inside a coding agent.",
+    "source": "github",
+    "language": "Python",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "faizwashere-scandot",
+    "name": "ScanDot",
+    "url": "https://github.com/faizwashere/scandot",
+    "category": "3D & Immersive",
+    "kind": "app",
+    "description": "Experimental Android app for capturing and viewing ARCore depth point clouds, plus a separate workstation video-photogrammetry pipeline using FFmpeg and COLMAP. Early stage.",
+    "tags": [
+      "android",
+      "point-cloud",
+      "3d-scanning",
+      "arcore",
+      "photogrammetry"
+    ],
+    "use_when": "Use when you want to experiment with phone-based 3D point-cloud capture on an ARCore Depth device.",
+    "source": "github",
+    "license": "MIT",
+    "language": "Kotlin",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "pmndre-pine",
+    "name": "PINE",
+    "url": "https://github.com/pmndre/pine",
+    "category": "AI Agents & Skills",
+    "kind": "agent-tool",
+    "description": "Reactive harness for agents (npm @pmndre/pine): agents react to stimuli such as watched folders, commands and websites, alongside chat, coding, tasks, memory and orchestration.",
+    "tags": [
+      "agents",
+      "harness",
+      "automation",
+      "orchestration",
+      "typescript"
+    ],
+    "use_when": "Use when you want agents that react to events and file or site changes rather than only waiting for chat prompts.",
+    "source": "github",
+    "license": "MIT",
+    "language": "TypeScript",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "molly554-whiteboard-ai-tutor",
+    "name": "Whiteboard AI Tutor",
+    "url": "https://github.com/molly554/whiteboard-ai-tutor",
+    "category": "Productivity & Learning",
+    "kind": "app",
+    "description": "Open-source AI tutor that writes, draws and erases on a whiteboard as it explains, with a benchmark of six models over 288 generation runs and 64 blind-reviewed boards. Early stage.",
+    "tags": [
+      "education",
+      "ai-tutor",
+      "whiteboard",
+      "benchmark",
+      "llm"
+    ],
+    "use_when": "Use when you want an interactive whiteboard-style AI tutor, or evidence on which LLM teaches best on a whiteboard.",
+    "source": "github",
+    "license": "MIT",
+    "language": "HTML",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "xinatian-mroffice",
+    "name": "MR Office",
+    "url": "https://github.com/XinaTian/mroffice",
+    "category": "Business Operations",
+    "kind": "platform",
+    "description": "AI office suite for real Word, Excel, PowerPoint and PDF files with live co-editing, on the web and desktop, plus embeddable editors. Free tier; paid hosted plans for heavier use. AGPL-3.0.",
+    "tags": [
+      "office-suite",
+      "documents",
+      "spreadsheets",
+      "co-editing",
+      "typescript"
+    ],
+    "use_when": "Use when you need an AI-assisted office suite or embeddable document editors; check AGPL terms before embedding.",
+    "source": "github",
+    "license": "AGPL-3.0",
+    "language": "TypeScript",
+    "status": "unverified-active",
+    "added_at": "2026-11-24",
+    "last_reviewed": "2026-11-24",
+    "featured": false
   }
 ]

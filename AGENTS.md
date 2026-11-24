@@ -15,7 +15,11 @@ This repository is a **catalog of resources**, not permission to execute unknown
 
 ## Schema
 
-Each entry contains: `id` (unique slug), `name`, `url` (HTTPS), `category`, `kind`, `description`, `tags` (array), `use_when`, `source`, `status`, `added_at`, `last_reviewed`, and optional `featured`.
+Each entry contains: `id` (unique lowercase slug), `name`, `url` (HTTPS, unique), `category`, `kind`, `description`, `tags` (2-12 lowercase strings), `use_when`, `source` (`github` or `website`, matching the URL host), `status`, `added_at` (YYYY-MM-DD), `last_reviewed` (YYYY-MM-DD, or `null` if not yet reviewed) and `featured` (boolean). Optional: `language`, `license`, `homepage`, `comparison`, `access`, `verification_note`.
+
+Allowed `category`, `kind` and `status` values live in [`catalog/schema.json`](catalog/schema.json) (also served at `/catalog/schema.json`). To use a new category or kind, add it there in the same change. Every category needs at least 3 entries. `npm test` and `npm run validate` enforce all of this, and CI runs them on every push and pull request.
+
+`use_when` should say when to reach for the tool, not repeat the description. `unverified-active` means curated but not security-audited; use `verified` only after you have checked the upstream project yourself. A weekly `Link check` workflow reports dead URLs.
 
 Categories are based on actual purpose. Some "frequency" repositories address linguistics, econometrics, image synthesis, physics, trading or anti-cheat, **not** audio.
 

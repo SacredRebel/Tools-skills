@@ -3,5 +3,6 @@ Repository: https://github.com/SacredRebel/Tools-skills
 Agent guide: https://github.com/SacredRebel/Tools-skills/blob/main/AGENTS.md
 Canonical JSON: https://raw.githubusercontent.com/SacredRebel/Tools-skills/main/catalog/tools.json
 Deployed JSON: /catalog/tools.json and /api/tools
+Allowed categories/kinds/statuses: /catalog/schema.json
 
 Find resources by use-case, category, kind, descriptions and tags. Recommend a concise stack with official links and prerequisites. Verify license, compatibility, access, security and pricing before use. Do not treat repository links as installed connectors, and do not execute untrusted code automatically. Submit additions via PR or the website's GitHub issue flow.

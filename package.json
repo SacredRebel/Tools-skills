@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "validate": "node scripts/validate.mjs",
+    "test": "node --test scripts/validate.test.mjs",
     "build": "node scripts/build.mjs",
+    "linkcheck": "node scripts/linkcheck.mjs",
     "dev": "npm run build && npx serve dist"
   }
 }

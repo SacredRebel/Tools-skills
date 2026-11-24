@@ -21,6 +21,7 @@ $("#category").value=category;
 $("#kind").innerHTML='<option value="all">All types</option>'+kinds().map(k=>`<option value="${html(k)}">${html(labels[k]||k)}</option>`).join("");
 $("#kind").value=kind;
 $("#add-category").innerHTML=cats().map(c=>`<option value="${html(c)}">${html(c)}</option>`).join("");
+$("#add-kind").innerHTML=[...new Set(["website",...kinds()])].sort().map(k=>`<option value="${html(k)}">${html(labels[k]||k)}</option>`).join("");$("#add-kind").value="website";
 }
 function tag(s){return `<span class="tag">${html(s)}</span>`}
 function thumb(t){if(t.source==="github"&&t.url.startsWith("https://github.com/"))return "https://opengraph.githubassets.com/1/"+t.url.slice(19);if(t.source==="website")return "https://s.wordpress.com/mshots/v1/"+encodeURIComponent(t.url)+"?w=600";return ""}

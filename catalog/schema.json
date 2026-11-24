@@ -1,0 +1,69 @@
+{
+  "$comment": "Allowed values for catalog/tools.json. Add a new category or kind here in the same change that first uses it.",
+  "categories": [
+    "3D & Immersive",
+    "AI Agents & Skills",
+    "AI Image & Video",
+    "Architecture & Construction",
+    "Audio & Music",
+    "Business Operations",
+    "CAD & Parametric Design",
+    "Calendar & Scheduling",
+    "Creative Coding",
+    "Data & Analytics",
+    "Design & UI",
+    "Developer Tools",
+    "E-commerce & Dropshipping",
+    "Email & Outreach",
+    "Finance & Trading",
+    "Marketing & Launch",
+    "Productivity & Learning",
+    "Research & Data",
+    "SEO & Analytics",
+    "Security & Compliance",
+    "Storytelling & Visualization",
+    "Video & Motion",
+    "Visual Development & OCR",
+    "Voice & Speech"
+  ],
+  "kinds": [
+    "agent-skill",
+    "agent-tool",
+    "api",
+    "app",
+    "collection",
+    "component-library",
+    "dataset",
+    "digital-product",
+    "example",
+    "framework",
+    "gallery",
+    "library",
+    "model",
+    "platform",
+    "repository",
+    "research",
+    "sdk",
+    "security-tool",
+    "utility",
+    "website"
+  ],
+  "statuses": [
+    "unverified-active",
+    "verified",
+    "archived"
+  ],
+  "sources": [
+    "github",
+    "website"
+  ],
+  "limits": {
+    "name": 90,
+    "description": 350,
+    "use_when": 400,
+    "tags_min": 2,
+    "tags_max": 12,
+    "tag": 35,
+    "min_per_category": 3
+  }
+}

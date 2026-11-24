@@ -19,6 +19,7 @@ A living searchable library for the websites, code repositories, skills, AI agen
 ## Start locally
 
 ```bash
+npm test
 npm run validate
 npm run build
 npx serve dist
@@ -28,7 +29,7 @@ No third-party JavaScript dependencies are required. Vercel builds with `npm run
 
 ## Adding a new resource
 
-From the dashboard, fill in name, URL, category, type, description and tags. **Save locally** stores a personal draft in your current browser. **Save to GitHub** creates a prefilled GitHub issue: review it, then click Submit in GitHub. A GitHub Actions workflow can validate and commit repo-owner submissions automatically. If branch protection or Actions permissions block pushing to `main`, copy the proposed JSON into `catalog/tools.json` using a PR instead. You can also edit the JSON directly and run `npm run validate`.
+From the dashboard, fill in name, URL, category, type, description and tags. **Save locally** stores a personal draft in your current browser. **Save to GitHub** creates a prefilled GitHub issue: review it, then click Submit in GitHub. A GitHub Actions workflow can validate and commit repo-owner submissions automatically. If branch protection or Actions permissions block pushing to `main`, copy the proposed JSON into `catalog/tools.json` using a PR instead. You can also edit the JSON directly and run `npm test`. Allowed categories and kinds are listed in [catalog/schema.json](catalog/schema.json); add a new one there in the same change that first uses it.
 
 ### Data trust
 
