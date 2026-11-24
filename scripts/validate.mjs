@@ -38,7 +38,8 @@ for(const t of data){
   if(new Set(t.tags).size!==t.tags.length)e("duplicate tags");
   for(const x of t.tags)if(typeof x!=="string"||!TAG_RE.test(x)||x.length>L.tag)e("bad tag "+JSON.stringify(x))}}
  if(typeof t.use_when==="string"){
-  if(t.use_when==="Use when: "+t.description)e("use_when just repeats description");
+  const squash=x=>x.toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
+  if(/^(use when|relevant when):/i.test(t.use_when)||(typeof t.description==="string"&&squash(t.description).length>=40&&squash(t.use_when).includes(squash(t.description))))e("use_when just repeats description");
   if(t.use_when.length<25||t.use_when.length>L.use_when)e("use_when must be 25-"+L.use_when+" characters")}
  if(t.featured!==undefined&&typeof t.featured!=="boolean")e("featured must be boolean");
  if(t.added_at!==undefined&&!isDate(t.added_at))e("added_at must be a real YYYY-MM-DD date");

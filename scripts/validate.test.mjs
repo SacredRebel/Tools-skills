@@ -14,6 +14,7 @@ test("rejects unknown category, kind and status",()=>{
  const e=lint({...good,category:"Nope",kind:"nope",status:"nope"}).join("\n");
  assert.match(e,/category/);assert.match(e,/kind/);assert.match(e,/status/)});
 test("rejects use_when that repeats description",()=>assert.match(lint({...good,description:"A tool for testing things.",use_when:"Use when: A tool for testing things."}).join(),/repeats/));
+test("rejects Relevant-when placeholder",()=>assert.match(lint({...good,description:"A tool for testing things.",use_when:"Relevant when: A tool for testing things."}).join(),/repeats/));
 test("rejects bad dates and review before add",()=>{
  assert.match(lint({...good,added_at:"2026-13-40"}).join(),/added_at/);
  assert.match(lint({...good,last_reviewed:"2026-11-01"}).join(),/before added_at/)});
