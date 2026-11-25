@@ -7345,7 +7345,7 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "category": "Video & Motion",
     "kind": "utility",
-    "description": "Command-line downloader and metadata extractor for YouTube and many sites; also fetches captions, chapters, tags and playlist listings without downloading media (--skip-download).",
+    "description": "Command-line downloader and metadata extractor for YouTube and many sites; also fetches captions, chapters, tags, playlist listings and storyboard preview sprites (-f sb0) without downloading media (--skip-download).",
     "tags": [
       "youtube",
       "captions",
@@ -7353,11 +7353,11 @@
       "cli",
       "transcripts"
     ],
-    "use_when": "Read a video's captions, chapters, tags or a playlist's view counts as text; download media only with permission.",
+    "use_when": "Read a video's captions, chapters, tags, storyboard sprites or a playlist's view counts as text/images without pulling the media; download media only with permission.",
     "source": "github",
     "status": "unverified-active",
     "added_at": "2026-11-22",
-    "last_reviewed": "2026-11-22",
+    "last_reviewed": "2026-11-25",
     "featured": false,
     "license": "Unlicense",
     "language": "Python"
@@ -8090,6 +8090,76 @@
     "status": "unverified-active",
     "added_at": "2026-11-24",
     "last_reviewed": "2026-11-24",
+    "featured": false
+  },
+  {
+    "id": "github-systran-faster-whisper",
+    "name": "faster-whisper",
+    "url": "https://github.com/SYSTRAN/faster-whisper",
+    "category": "Voice & Speech",
+    "kind": "library",
+    "language": "Python",
+    "license": "MIT",
+    "description": "Local Whisper transcription on the CTranslate2 runtime — transcribes video, podcast or phone-recorded audio offline on CPU with word timestamps; no API key or cloud call.",
+    "tags": [
+      "whisper",
+      "transcription",
+      "speech-to-text",
+      "local",
+      "offline",
+      "timestamps"
+    ],
+    "use_when": "Turn local audio/video into a timestamped transcript on your own machine; the fallback when a video has no captions and zero-download policy applies.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-25",
+    "last_reviewed": "2026-11-25",
+    "featured": false
+  },
+  {
+    "id": "github-openai-whisper",
+    "name": "Whisper (OpenAI)",
+    "url": "https://github.com/openai/whisper",
+    "category": "Voice & Speech",
+    "kind": "model",
+    "language": "Python",
+    "license": "MIT",
+    "description": "OpenAI's reference speech-recognition model family (tiny to large); base.en transcribes comfortably on CPU — the model faster-whisper accelerates.",
+    "tags": [
+      "whisper",
+      "speech-to-text",
+      "transcription",
+      "model",
+      "openai",
+      "local"
+    ],
+    "use_when": "When you need the reference Whisper model itself — research, fine-tuning, or an environment where faster-whisper isn't installed.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-25",
+    "last_reviewed": "2026-11-25",
+    "featured": false
+  },
+  {
+    "id": "windows-media-ocr",
+    "name": "Windows.Media.Ocr",
+    "url": "https://learn.microsoft.com/en-us/uwp/api/windows.media.ocr",
+    "category": "Visual Development & OCR",
+    "kind": "api",
+    "description": "Built-in Windows OCR API (WinRT) — extract text from screenshots, app UIs and saved images offline from PowerShell or C#; nothing to install, no cloud call.",
+    "tags": [
+      "ocr",
+      "windows",
+      "winrt",
+      "screenshots",
+      "offline",
+      "powershell"
+    ],
+    "use_when": "Read text out of screenshots or UI captures on a Windows machine without installing anything or sending images to a service.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-25",
+    "last_reviewed": "2026-11-25",
     "featured": false
   }
 ]
