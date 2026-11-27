@@ -13256,5 +13256,68 @@
     "added_at": "2026-11-27",
     "last_reviewed": "2026-11-27",
     "featured": false
+  },
+  {
+    "id": "anthropics-knowledge-work-plugins",
+    "name": "knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "category": "AI Agents & Skills",
+    "kind": "collection",
+    "description": "Anthropic's plugins that turn Claude into a role specialist, each bundling skills, connectors, slash commands and sub-agents for a job function. Built for Claude Cowork and compatible with Claude Code.",
+    "tags": [
+      "plugins",
+      "claude-cowork",
+      "claude-code",
+      "skills",
+      "roles"
+    ],
+    "use_when": "Use when you want ready role-based plugin bundles to customise for your team's workflows.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "anthropics-prompt-eng-interactive-tutorial",
+    "name": "Prompt Engineering Interactive Tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "category": "Productivity & Learning",
+    "kind": "example",
+    "description": "Anthropic's step-by-step interactive course on engineering effective prompts for Claude: prompt structure, common failure modes and the 80/20 techniques.",
+    "tags": [
+      "prompt-engineering",
+      "tutorial",
+      "course",
+      "claude",
+      "learning"
+    ],
+    "use_when": "Use when you or an agent need a structured, hands-on way to learn prompt engineering for Claude.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "anthropics-claude-quickstarts",
+    "name": "Claude Quickstarts",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "category": "Developer Tools",
+    "kind": "collection",
+    "description": "Anthropic's collection of starter projects for building with the Claude API, such as a customer support agent, each meant as a foundation to customise.",
+    "tags": [
+      "claude-api",
+      "quickstarts",
+      "examples",
+      "agents",
+      "starter"
+    ],
+    "use_when": "Use when you want a working Claude API app to start from instead of building from scratch.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
   }
 ]
