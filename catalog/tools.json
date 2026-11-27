@@ -13212,5 +13212,49 @@
     "added_at": "2026-11-27",
     "last_reviewed": "2026-11-27",
     "featured": false
+  },
+  {
+    "id": "anthropics-claude-code-playground",
+    "name": "claude-code-playground",
+    "url": "https://github.com/anthropics/claude-code-playground",
+    "category": "AI Agents & Skills",
+    "kind": "collection",
+    "description": "Anthropic DevRel's playground of Claude Code setups, skills and demos. Explicitly not an official product: provided as-is, may break, and external contributions are not accepted.",
+    "tags": [
+      "claude-code",
+      "devrel",
+      "skills",
+      "examples",
+      "anthropic"
+    ],
+    "use_when": "Use when you want to see how Anthropic's DevRel team sets up Claude Code, treating it as inspiration rather than best practice.",
+    "license": "Apache-2.0",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "anthropics-launch-your-agent",
+    "name": "launch-your-agent",
+    "url": "https://github.com/anthropics/launch-your-agent",
+    "category": "AI Agents & Skills",
+    "kind": "agent-skill",
+    "description": "Anthropic's reference Claude Code skill that interviews a founder and helps them build an internal worker or customer-facing agent on Claude Managed Agents. Not maintained; token-heavy because it explains each step.",
+    "tags": [
+      "claude-code",
+      "managed-agents",
+      "skill",
+      "anthropic",
+      "reference"
+    ],
+    "use_when": "Use when you want a guided walkthrough for building an agent on Claude Managed Agents.",
+    "license": "Apache-2.0",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
   }
 ]
