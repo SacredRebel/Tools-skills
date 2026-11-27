@@ -12994,5 +12994,118 @@
     "added_at": "2026-11-27",
     "last_reviewed": "2026-11-27",
     "featured": false
+  },
+  {
+    "id": "kaomei-stickman-video-director",
+    "name": "Stickman Video Director",
+    "url": "https://github.com/kaomei/stickman-video-director",
+    "category": "Video & Motion",
+    "kind": "agent-skill",
+    "description": "Agent skill for Claude Code, Codex and others that turns a topic, article or script into an animated stickman video with 16+ styles, voiceover, captions and sound effects, for faceless YouTube, Shorts and TikTok.",
+    "tags": [
+      "stickman",
+      "video",
+      "faceless-youtube",
+      "agent-skill",
+      "voiceover"
+    ],
+    "use_when": "Use when you want an agent to produce a finished narrated stickman video from one message.",
+    "source": "github",
+    "license": "MIT",
+    "language": "JavaScript",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "natfii-unrealclaude",
+    "name": "UnrealClaude",
+    "url": "https://github.com/Natfii/UnrealClaude",
+    "category": "Game Development & Engines",
+    "kind": "agent-tool",
+    "description": "Integrates the Claude Code CLI into the Unreal Engine 5.7 editor with a docked chat panel and built-in UE docs context, and runs an MCP server with 20+ tools so other coding agents can use the editor.",
+    "tags": [
+      "unreal-engine",
+      "claude-code",
+      "mcp",
+      "editor-plugin",
+      "cpp"
+    ],
+    "use_when": "Use when you want Claude working inside the Unreal editor on a UE 5.7 project.",
+    "source": "github",
+    "license": "MIT",
+    "language": "C++",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "donchitos-claude-code-game-studios",
+    "name": "Claude Code Game Studios",
+    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "category": "Game Development & Engines",
+    "kind": "agent-skill",
+    "description": "Turns a Claude Code session into a coordinated game-dev studio of 49 agents, 74 skills, hooks and rules, with design reviews and QA gates; can build a playable browser game from a one-page brief.",
+    "tags": [
+      "game-dev",
+      "claude-code",
+      "agents",
+      "skills",
+      "studio"
+    ],
+    "use_when": "Use when you want structure, review passes and specialist roles around solo game development with Claude.",
+    "source": "github",
+    "license": "MIT",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "loktar00-sprite-stack-engine",
+    "name": "Sprite stack engine",
+    "url": "https://github.com/loktar00/sprite-stack-engine",
+    "category": "Game Development & Engines",
+    "kind": "library",
+    "description": "Small plain-WebGL2 sprite-stacking renderer with no libraries: scenes are stacks of flat slices drawn as textured quads with a freely turning, tilting camera. Designed by loktar00 and written by Claude.",
+    "tags": [
+      "sprite-stacking",
+      "webgl2",
+      "rendering",
+      "pseudo-3d",
+      "javascript"
+    ],
+    "use_when": "Use when you want a lightweight pseudo-3D sprite-stack renderer a chat agent can extend.",
+    "source": "github",
+    "license": "MIT",
+    "language": "JavaScript",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "loktar00-sprite-stack-animation",
+    "name": "Sprite stack animation",
+    "url": "https://github.com/loktar00/sprite-stack-animation",
+    "category": "Game Development & Engines",
+    "kind": "example",
+    "description": "Starter kit for walking sprite-stacked characters on a plain 2D canvas: PNG slice strips, a distance-based gait with planted feet and two-bone IK, and a step-by-step tutorial.",
+    "tags": [
+      "sprite-stacking",
+      "animation",
+      "ik",
+      "canvas",
+      "tutorial"
+    ],
+    "use_when": "Use when you want a worked example of animating stacked-sprite characters, with nothing to install.",
+    "source": "github",
+    "language": "JavaScript",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
   }
 ]
