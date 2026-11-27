@@ -12355,5 +12355,68 @@
     "added_at": "2026-11-27",
     "last_reviewed": "2026-11-27",
     "featured": false
+  },
+  {
+    "id": "shiplaunchpad-launchpad",
+    "name": "launchpad",
+    "url": "https://github.com/shiplaunchpad/launchpad",
+    "category": "Developer Tools",
+    "kind": "agent-skill",
+    "description": "Claude Code plugin that takes an app through a production checklist: cloud builds, signing, release channel, secrets vault, crash reports, analytics, uptime alerts and store paperwork, with a local Mission Control dashboard. Paid one-time licence.",
+    "tags": [
+      "claude-code",
+      "plugin",
+      "shipping",
+      "release",
+      "deployment"
+    ],
+    "use_when": "Use when you want Claude Code to walk an app from a laptop to live hosting, payments and analytics step by step.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "cloudflare-security-audit-skill",
+    "name": "security-audit (Cloudflare)",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "category": "Security & Compliance",
+    "kind": "agent-skill",
+    "description": "Cloudflare's coding-agent skill that runs a six-phase security audit with isolated agents: recon, coverage-led hunting, candidate validation, structured findings, independent verification and reporting. It seeded their vulnerability-discovery harness.",
+    "tags": [
+      "security",
+      "audit",
+      "agent-skill",
+      "vulnerability",
+      "cloudflare"
+    ],
+    "use_when": "Use when you want an agent to audit a codebase for vulnerabilities with validated, structured findings.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "skiper-ui",
+    "name": "Skiper UI",
+    "url": "https://skiper-ui.com/",
+    "category": "Design & UI",
+    "kind": "component-library",
+    "description": "Registry of 100+ uncommon animated components for Next.js, installed one file at a time with the shadcn CLI (@skiper-ui). Some are free, some need a Pro licence; free use needs attribution.",
+    "tags": [
+      "shadcn",
+      "registry",
+      "animated-components",
+      "nextjs",
+      "framer-motion"
+    ],
+    "use_when": "Use when you want standout interaction effects such as image reveals or a dynamic island in a shadcn project.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
   }
 ]
