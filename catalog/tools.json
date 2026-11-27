@@ -11628,5 +11628,260 @@
     "added_at": "2026-11-26",
     "last_reviewed": "2026-11-26",
     "featured": false
+  },
+  {
+    "id": "meta-ad-library",
+    "name": "Meta Ad Library",
+    "url": "https://www.facebook.com/ads/library/",
+    "category": "Marketing & Launch",
+    "kind": "website",
+    "description": "Meta's public, searchable database of ads running across Facebook, Instagram and other Meta products, with start dates, platforms and creative.",
+    "tags": [
+      "ads",
+      "meta",
+      "competitor-research",
+      "transparency",
+      "facebook"
+    ],
+    "use_when": "Use when you want to study what ads a competitor or niche is running before writing copy.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "meta-ad-library-api",
+    "name": "Meta Ad Library API",
+    "url": "https://www.facebook.com/ads/library/api",
+    "category": "Marketing & Launch",
+    "kind": "api",
+    "description": "Official Graph API endpoint (ads_archive) for querying the Ad Library: political and issue ads worldwide, plus all ad types delivered in the UK and EU.",
+    "tags": [
+      "ads",
+      "meta",
+      "api",
+      "graph-api",
+      "research"
+    ],
+    "use_when": "Use when an agent needs to pull ad data programmatically instead of browsing the Ad Library by hand.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "facebookresearch-ad-library-api-script-repository",
+    "name": "Ad Library API Script Repository",
+    "url": "https://github.com/facebookresearch/Ad-Library-API-Script-Repository",
+    "category": "Marketing & Launch",
+    "kind": "example",
+    "description": "Meta Research's example scripts and a simple command-line interface for the Ad Library API.",
+    "tags": [
+      "ads",
+      "meta",
+      "python",
+      "scripts",
+      "cli"
+    ],
+    "use_when": "Use when you want working code for fetching and saving Ad Library data.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "google-workspace-mcp-servers",
+    "name": "Google Workspace MCP servers",
+    "url": "https://developers.google.com/workspace/guides/configure-mcp-servers",
+    "category": "Productivity & Learning",
+    "kind": "platform",
+    "description": "Google's official remote MCP servers for Gmail, Drive, Docs and more, with setup steps for adding them as connectors in Claude.",
+    "tags": [
+      "mcp",
+      "google-workspace",
+      "gmail",
+      "drive",
+      "connectors"
+    ],
+    "use_when": "Use when Claude should read mail, drafts and files in a Google account through an official connector.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "taylorwilsdon-google-workspace-mcp",
+    "name": "Google Workspace MCP (workspace-mcp)",
+    "url": "https://github.com/taylorwilsdon/google_workspace_mcp",
+    "category": "Productivity & Learning",
+    "kind": "agent-tool",
+    "description": "Community MCP server and CLI covering Gmail, Drive, Calendar, Docs, Sheets, Slides, Forms, Tasks, Contacts and Chat with multi-user support.",
+    "tags": [
+      "mcp",
+      "google-workspace",
+      "gmail",
+      "sheets",
+      "calendar"
+    ],
+    "use_when": "Use when an agent needs to edit Sheets, Docs and Calendar as well as Gmail, not just read mail.",
+    "source": "github",
+    "license": "MIT",
+    "language": "Python",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "steipete-gogcli",
+    "name": "gog (Google CLI with MCP mode)",
+    "url": "https://github.com/steipete/gogcli",
+    "category": "Productivity & Learning",
+    "kind": "utility",
+    "description": "Command-line tool for Gmail, Calendar, Drive, Docs and Sheets that can run as a read-only MCP server limited to chosen tools.",
+    "tags": [
+      "cli",
+      "mcp",
+      "gmail",
+      "google",
+      "read-only"
+    ],
+    "use_when": "Use when you want an agent to search Gmail or read Sheets with a tight allow-list of tools.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "google-maps-grounding-lite-mcp",
+    "name": "Google Maps Grounding Lite MCP",
+    "url": "https://developers.google.com/maps/ai/grounding-lite",
+    "category": "Research & Data",
+    "kind": "agent-tool",
+    "description": "Google's hosted MCP server (mapstools.googleapis.com/mcp) giving LLMs place search, weather and route data from Google Maps.",
+    "tags": [
+      "mcp",
+      "google-maps",
+      "places",
+      "weather",
+      "geospatial"
+    ],
+    "use_when": "Use when an agent must find local businesses and their details, for example shops with no website.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "netlify-mcp-server",
+    "name": "Netlify MCP server",
+    "url": "https://github.com/netlify/netlify-mcp",
+    "category": "Developer Tools",
+    "kind": "agent-tool",
+    "description": "Netlify's official MCP server that lets agents create, build, deploy and manage Netlify projects, env vars, forms and access controls.",
+    "tags": [
+      "mcp",
+      "netlify",
+      "deploy",
+      "hosting",
+      "official"
+    ],
+    "use_when": "Use when Claude should deploy a finished static site straight to Netlify.",
+    "source": "github",
+    "language": "TypeScript",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "netlify-mcp-docs",
+    "name": "Netlify MCP and agent setup docs",
+    "url": "https://docs.netlify.com/build/build-with-ai/netlify-mcp-server",
+    "category": "Developer Tools",
+    "kind": "website",
+    "description": "Netlify's documentation for connecting its remote and local MCP servers and agent skills to Claude, Claude Code and other agents.",
+    "tags": [
+      "netlify",
+      "mcp",
+      "docs",
+      "agent-skills",
+      "setup"
+    ],
+    "use_when": "Use when you need current connection steps for the Netlify MCP server in a specific agent.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "netlify-cli",
+    "name": "Netlify CLI",
+    "url": "https://github.com/netlify/cli",
+    "category": "Developer Tools",
+    "kind": "utility",
+    "description": "Official command-line tool for deploying and managing Netlify sites, functions and environment settings.",
+    "tags": [
+      "netlify",
+      "cli",
+      "deploy",
+      "serverless",
+      "hosting"
+    ],
+    "use_when": "Use when an agent has shell access and should run deploys with a CLI.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "instantly-mcp",
+    "name": "Instantly MCP server",
+    "url": "https://developer.instantly.ai/mcp/introduction",
+    "category": "Email & Outreach",
+    "kind": "agent-tool",
+    "description": "Hosted MCP server (mcp.instantly.ai) exposing the full Instantly V2 API: email accounts, campaigns, leads, replies and analytics.",
+    "tags": [
+      "mcp",
+      "instantly",
+      "cold-email",
+      "campaigns",
+      "leads"
+    ],
+    "use_when": "Use when Claude should load leads and run or pause email campaigns in Instantly.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "instantly-api-v2-docs",
+    "name": "Instantly developer docs (API v2)",
+    "url": "https://developer.instantly.ai/",
+    "category": "Email & Outreach",
+    "kind": "api",
+    "description": "Instantly's API v2 reference with TypeScript SDK, CLI, OAuth account connection and webhook events.",
+    "tags": [
+      "instantly",
+      "api",
+      "sdk",
+      "webhooks",
+      "email-outreach"
+    ],
+    "use_when": "Use when you are building an integration or automation on top of Instantly.",
+    "source": "website",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
   }
 ]
