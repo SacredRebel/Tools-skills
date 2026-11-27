@@ -13107,5 +13107,110 @@
     "added_at": "2026-11-27",
     "last_reviewed": "2026-11-27",
     "featured": false
+  },
+  {
+    "id": "appsmithorg-appsmith",
+    "name": "Appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "category": "Business Operations",
+    "kind": "platform",
+    "description": "Open-source low-code platform for building internal tools such as dashboards, admin panels and customer 360 views on top of databases and APIs; an alternative to Retool.",
+    "tags": [
+      "low-code",
+      "internal-tools",
+      "admin-panel",
+      "dashboards",
+      "retool-alternative"
+    ],
+    "use_when": "Use when you need an internal admin app over your data without writing a full frontend.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "apache-superset",
+    "name": "Apache Superset",
+    "url": "https://github.com/apache/superset",
+    "category": "Data & Analytics",
+    "kind": "platform",
+    "description": "Apache's open-source business intelligence platform for exploring data and building dashboards and charts from SQL databases; an alternative to Power BI.",
+    "tags": [
+      "bi",
+      "dashboards",
+      "sql",
+      "visualization",
+      "power-bi-alternative"
+    ],
+    "use_when": "Use when you want self-hosted dashboards and charts over your databases.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "grafana-grafana",
+    "name": "Grafana",
+    "url": "https://github.com/grafana/grafana",
+    "category": "Data & Analytics",
+    "kind": "platform",
+    "description": "Open-source observability platform for querying, visualising and alerting on metrics, logs and traces from many data sources; an alternative to Datadog dashboards.",
+    "tags": [
+      "monitoring",
+      "observability",
+      "dashboards",
+      "alerting",
+      "datadog-alternative"
+    ],
+    "use_when": "Use when you need dashboards and alerts over infrastructure and application metrics.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "airbytehq-airbyte",
+    "name": "Airbyte",
+    "url": "https://github.com/airbytehq/airbyte",
+    "category": "Data & Analytics",
+    "kind": "platform",
+    "description": "Open-source data-movement platform with hundreds of connectors to sync data from any source into warehouses and databases; an alternative to Hevo and Fivetran.",
+    "tags": [
+      "etl",
+      "elt",
+      "data-integration",
+      "connectors",
+      "pipelines"
+    ],
+    "use_when": "Use when you need to move data between apps and a warehouse without paying per row.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
+  },
+  {
+    "id": "lightdash-lightdash",
+    "name": "Lightdash",
+    "url": "https://github.com/lightdash/lightdash",
+    "category": "Data & Analytics",
+    "kind": "platform",
+    "description": "Open-source agentic BI platform built on dbt: governed metrics, dashboards and AI agents defined as code, shipped through Git, CI, MCP and a CLI; an alternative to Looker.",
+    "tags": [
+      "bi",
+      "dbt",
+      "metrics",
+      "mcp",
+      "looker-alternative"
+    ],
+    "use_when": "Use when you want Looker-style governed analytics that agents can query through MCP.",
+    "source": "github",
+    "status": "unverified-active",
+    "added_at": "2026-11-27",
+    "last_reviewed": "2026-11-27",
+    "featured": false
   }
 ]
